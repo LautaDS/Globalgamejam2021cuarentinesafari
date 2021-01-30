@@ -12,10 +12,12 @@ public class Player : MonoBehaviour
     [SerializeField] private float drag;
     // Start is called before the first frame update
 
+
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-
+        movement = new Vector2(0f, 0f);
     }
     void Start()
     {
@@ -28,6 +30,10 @@ public class Player : MonoBehaviour
         
     }
 
+    private void FixedUpdate()
+    {
+        Move();
+    }
     #region InputReciever
     public void OnMovement(InputAction.CallbackContext context)
     {
@@ -66,7 +72,19 @@ public class Player : MonoBehaviour
 
     private void Move()
     {
-        rb.AddForce(new Vector2(movement.x * speed, movement.y * speed), ForceMode2D.Force);
+        if(movement.x < 0.1 && movement.x > -0.1 && movement.y < 0.1 && movement.y > -0.1)
+        {
+            rb.velocity = new Vector2(rb.velocity.x /3 , rb.velocity.y / 3);
+        } else
+        {
+            rb.velocity = new Vector2(movement.x * speed, movement.y * speed);
+        }
+        
+    }
+
+    private void AdjustFlashlight()
+    {
+        flashlight.transform.position = movement;
     }
         
 }
