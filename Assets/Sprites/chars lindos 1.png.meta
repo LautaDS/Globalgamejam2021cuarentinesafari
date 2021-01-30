@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 79744e3ec6eea3542bb798f986ae217b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6299343964652689763
+    second: chars lindos 1_0
+  - first:
+      213: -492808836881689849
+    second: chars lindos 1_1
+  - first:
+      213: 9101853586491790111
+    second: chars lindos 1_2
+  - first:
+      213: -14184653039261765
+    second: chars lindos 1_3
+  - first:
+      213: -6291553471595821168
+    second: chars lindos 1_4
+  - first:
+      213: 4048498446277192655
+    second: chars lindos 1_5
+  - first:
+      213: -6586074278603273606
+    second: chars lindos 1_6
+  - first:
+      213: -3572967730363734813
+    second: chars lindos 1_7
+  - first:
+      213: 219747617328574109
+    second: chars lindos 1_8
+  - first:
+      213: -4914528194599736284
+    second: chars lindos 1_9
+  - first:
+      213: 799108695076046086
+    second: chars lindos 1_10
+  - first:
+      213: -2200410415999816565
+    second: chars lindos 1_11
+  - first:
+      213: 6679386764898536416
+    second: chars lindos 1_12
+  - first:
+      213: -2790071065119287719
+    second: chars lindos 1_13
+  - first:
+      213: 1952837655860753859
+    second: chars lindos 1_14
+  - first:
+      213: 1619983795674597565
+    second: chars lindos 1_15
+  - first:
+      213: -6491207949829589437
+    second: chars lindos 1_16
+  - first:
+      213: 802681445713363309
+    second: chars lindos 1_17
+  - first:
+      213: -8179083005532825629
+    second: chars lindos 1_18
+  - first:
+      213: 4826270651018060433
+    second: chars lindos 1_19
+  - first:
+      213: 3739584191150142349
+    second: chars lindos 1_20
+  - first:
+      213: -4673161081461197046
+    second: chars lindos 1_21
+  - first:
+      213: 8403402993473369462
+    second: chars lindos 1_22
+  - first:
+      213: 133328476701735427
+    second: chars lindos 1_23
+  - first:
+      213: -880885261286433574
+    second: chars lindos 1_24
+  - first:
+      213: -8880964369254186546
+    second: chars lindos 1_25
+  - first:
+      213: -8726368424802873424
+    second: chars lindos 1_26
+  - first:
+      213: 3506304551125821758
+    second: chars lindos 1_27
+  - first:
+      213: -7489948868426455798
+    second: chars lindos 1_28
+  - first:
+      213: 6057710138779876237
+    second: chars lindos 1_29
+  - first:
+      213: 5991221221581303919
+    second: chars lindos 1_30
+  - first:
+      213: -833707136423763886
+    second: chars lindos 1_31
+  - first:
+      213: -5837812990474866410
+    second: chars lindos 1_32
+  - first:
+      213: 8015546545235480516
+    second: chars lindos 1_33
+  - first:
+      213: -8359771632171048883
+    second: chars lindos 1_34
+  - first:
+      213: -3790571565381456958
+    second: chars lindos 1_35
+  - first:
+      213: -5875470149233230825
+    second: chars lindos 1_36
+  - first:
+      213: 5490228534066075501
+    second: chars lindos 1_37
+  - first:
+      213: -6991239540719578333
+    second: chars lindos 1_38
+  - first:
+      213: -2024821565197454577
+    second: chars lindos 1_39
+  - first:
+      213: -7663299801999108768
+    second: chars lindos 1_40
+  - first:
+      213: 4445536639519734700
+    second: chars lindos 1_41
+  - first:
+      213: 8966160739326084860
+    second: chars lindos 1_42
+  - first:
+      213: 6053117504605596536
+    second: chars lindos 1_43
+  - first:
+      213: 7172986349160849292
+    second: chars lindos 1_44
+  - first:
+      213: 232402668181902944
+    second: chars lindos 1_45
+  - first:
+      213: -3866260587733332472
+    second: chars lindos 1_46
+  - first:
+      213: -5038093301716667549
+    second: chars lindos 1_47
+  - first:
+      213: 8759034227082805103
+    second: chars lindos 1_48
+  - first:
+      213: 3861220826085238186
+    second: chars lindos 1_49
+  - first:
+      213: -5249884996536659523
+    second: chars lindos 1_50
+  - first:
+      213: -1460687938533708938
+    second: chars lindos 1_51
+  - first:
+      213: -3138534659327097826
+    second: chars lindos 1_52
+  - first:
+      213: -7446545752110313466
+    second: chars lindos 1_53
+  - first:
+      213: 5551636450535224815
+    second: chars lindos 1_54
+  - first:
+      213: 5388120028993744331
+    second: chars lindos 1_55
+  - first:
+      213: 121094328289065934
+    second: chars lindos 1_56
+  - first:
+      213: 2557312492530741098
+    second: chars lindos 1_57
+  - first:
+      213: -1464681557473711857
+    second: chars lindos 1_58
+  - first:
+      213: -6471474708479008524
+    second: chars lindos 1_59
+  - first:
+      213: 6819836283171530911
+    second: chars lindos 1_60
+  - first:
+      213: -1284400528951894440
+    second: chars lindos 1_61
+  - first:
+      213: 7463795352108106446
+    second: chars lindos 1_62
+  - first:
+      213: -8056778991541436519
+    second: chars lindos 1_63
+  - first:
+      213: 4555070848843092534
+    second: chars lindos 1_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chars lindos 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9620ec1a0c3498a0800000000000000
+      internalID: -6299343964652689763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7035e7f49f03929f0800000000000000
+      internalID: -492808836881689849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13557cfc97405e70800000000000000
+      internalID: 9101853586491790111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7255a122b9dcff0800000000000000
+      internalID: -14184653039261765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c720a379efa8a0800000000000000
+      internalID: -6291553471595821168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba21413e72f2830800000000000000
+      internalID: 4048498446277192655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac38f86509994a0800000000000000
+      internalID: -6586074278603273606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e46cb597c44a6ec0800000000000000
+      internalID: -3572967730363734813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eab1f2b43bc0300800000000000000
+      internalID: 219747617328574109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cad3235a61ccbb0800000000000000
+      internalID: -4914528194599736284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6050fe2df11071b00800000000000000
+      internalID: 799108695076046086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce24a82629671e0800000000000000
+      internalID: -2200410415999816565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb093fafd2f1bc50800000000000000
+      internalID: 6679386764898536416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9561871162da749d0800000000000000
+      internalID: -2790071065119287719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5369d508fd91b10800000000000000
+      internalID: 1952837655860753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c21bdda65b7610800000000000000
+      internalID: 1619983795674597565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463733f2c89ae5a0800000000000000
+      internalID: -6491207949829589437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61ca87a582b32b00800000000000000
+      internalID: 802681445713363309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e718c2575f0e7e80800000000000000
+      internalID: -8179083005532825629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19223df169b5af240800000000000000
+      internalID: 4826270651018060433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83bb29320ca5e330800000000000000
+      internalID: 3739584191150142349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07335181c8952fb0800000000000000
+      internalID: -4673161081461197046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753f6adf72ee9470800000000000000
+      internalID: 8403402993473369462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a304c0b8da9d100800000000000000
+      internalID: 133328476701735427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1521a58776c3f0800000000000000
+      internalID: -880885261286433574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec104b3a5f970c480800000000000000
+      internalID: -8880964369254186546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8074e626b5e680800000000000000
+      internalID: -8726368424802873424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a03c7965e8a030800000000000000
+      internalID: 3506304551125821758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052a97003b5e0890800000000000000
+      internalID: -7489948868426455798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb14ea64f411450800000000000000
+      internalID: 6057710138779876237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b22b45f7152350800000000000000
+      internalID: 5991221221581303919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e0cec6c31e64f0800000000000000
+      internalID: -833707136423763886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b595e30cebfea0800000000000000
+      internalID: -5837812990474866410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfce5d5d11fc3f60800000000000000
+      internalID: 8015546545235480516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ae051eff1cfb80800000000000000
+      internalID: -8359771632171048883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbedbd9e3f256bc0800000000000000
+      internalID: -3790571565381456958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cba826703267ea0800000000000000
+      internalID: -5875470149233230825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d8b463c5313c40800000000000000
+      internalID: 5490228534066075501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3239ebbcda02afe90800000000000000
+      internalID: -6991239540719578333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fad0b38366e3e0800000000000000
+      internalID: -2024821565197454577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06595869e6d76a590800000000000000
+      internalID: -7663299801999108768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabbe8a2508b1bd30800000000000000
+      internalID: 4445536639519734700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c59a00b33e6c70800000000000000
+      internalID: 8966160739326084860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b27b5bc4ef00450800000000000000
+      internalID: 6053117504605596536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f557894119b8360800000000000000
+      internalID: 7172986349160849292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d5d1def8a93300800000000000000
+      internalID: 232402668181902944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ecf03da78485ac0800000000000000
+      internalID: -3866260587733332472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36337e5c5d8151ab0800000000000000
+      internalID: -5038093301716667549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f32c0e8375e8970800000000000000
+      internalID: 8759034227082805103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5a62a32efc59530800000000000000
+      internalID: 3861220826085238186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db197c52969a427b0800000000000000
+      internalID: -5249884996536659523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b20081f089abbe0800000000000000
+      internalID: -1460687938533708938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148e832b5fa174d0800000000000000
+      internalID: -3138534659327097826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60055c9871e88a890800000000000000
+      internalID: -7446545752110313466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5334c10ff5b0d40800000000000000
+      internalID: 5551636450535224815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde65f6e9276ca40800000000000000
+      internalID: 5388120028993744331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbfbf566a63ea100800000000000000
+      internalID: 121094328289065934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa6f8a9266d7320800000000000000
+      internalID: 2557312492530741098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09a6b932e76cabe0800000000000000
+      internalID: -1464681557473711857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02f2c3a04b036a0800000000000000
+      internalID: -6471474708479008524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9862cc67fce4ae50800000000000000
+      internalID: 6819836283171530911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9f722684ec2ee0800000000000000
+      internalID: -1284400528951894440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28d9ee35ab49760800000000000000
+      internalID: 7463795352108106446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb75f9132903090800000000000000
+      internalID: -8056778991541436519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars lindos 1_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329700adccd63f30800000000000000
+      internalID: 4555070848843092534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

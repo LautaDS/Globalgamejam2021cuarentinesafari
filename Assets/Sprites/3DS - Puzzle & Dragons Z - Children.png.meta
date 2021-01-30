@@ -1,0 +1,5155 @@
+fileFormatVersion: 2
+guid: 2a378cd0e666e2e418e534b6736601cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7733132506419748126
+    second: 3DS - Puzzle & Dragons Z - Children_0
+  - first:
+      213: -4116033856256113383
+    second: 3DS - Puzzle & Dragons Z - Children_1
+  - first:
+      213: -2639431483368197370
+    second: 3DS - Puzzle & Dragons Z - Children_2
+  - first:
+      213: -244961216461942983
+    second: 3DS - Puzzle & Dragons Z - Children_3
+  - first:
+      213: 6710228634506039849
+    second: 3DS - Puzzle & Dragons Z - Children_4
+  - first:
+      213: 6130574249997946754
+    second: 3DS - Puzzle & Dragons Z - Children_5
+  - first:
+      213: -8360044359199080375
+    second: 3DS - Puzzle & Dragons Z - Children_6
+  - first:
+      213: -8044480919151897416
+    second: 3DS - Puzzle & Dragons Z - Children_7
+  - first:
+      213: 398102952541386532
+    second: 3DS - Puzzle & Dragons Z - Children_8
+  - first:
+      213: 4654163679637730357
+    second: 3DS - Puzzle & Dragons Z - Children_9
+  - first:
+      213: 7436138010295984333
+    second: 3DS - Puzzle & Dragons Z - Children_10
+  - first:
+      213: 3435028227303796764
+    second: 3DS - Puzzle & Dragons Z - Children_11
+  - first:
+      213: 6370598017343663355
+    second: 3DS - Puzzle & Dragons Z - Children_12
+  - first:
+      213: -886607124773619959
+    second: 3DS - Puzzle & Dragons Z - Children_13
+  - first:
+      213: 1841772160831504082
+    second: 3DS - Puzzle & Dragons Z - Children_14
+  - first:
+      213: -1301101793865179738
+    second: 3DS - Puzzle & Dragons Z - Children_15
+  - first:
+      213: 1189378078432282681
+    second: 3DS - Puzzle & Dragons Z - Children_16
+  - first:
+      213: -3259019565508041188
+    second: 3DS - Puzzle & Dragons Z - Children_17
+  - first:
+      213: 8931197459649256406
+    second: 3DS - Puzzle & Dragons Z - Children_18
+  - first:
+      213: 6526877959515471320
+    second: 3DS - Puzzle & Dragons Z - Children_19
+  - first:
+      213: -7667908013087811381
+    second: 3DS - Puzzle & Dragons Z - Children_20
+  - first:
+      213: -1010860296629710304
+    second: 3DS - Puzzle & Dragons Z - Children_21
+  - first:
+      213: -6765319339012913898
+    second: 3DS - Puzzle & Dragons Z - Children_22
+  - first:
+      213: -85917273102832772
+    second: 3DS - Puzzle & Dragons Z - Children_23
+  - first:
+      213: 1253289680516693761
+    second: 3DS - Puzzle & Dragons Z - Children_24
+  - first:
+      213: -6348834389596490317
+    second: 3DS - Puzzle & Dragons Z - Children_25
+  - first:
+      213: 4229711374162025603
+    second: 3DS - Puzzle & Dragons Z - Children_26
+  - first:
+      213: 2616953105428901861
+    second: 3DS - Puzzle & Dragons Z - Children_27
+  - first:
+      213: 2073909915556126825
+    second: 3DS - Puzzle & Dragons Z - Children_28
+  - first:
+      213: 8069156012109439400
+    second: 3DS - Puzzle & Dragons Z - Children_29
+  - first:
+      213: -8067347979445759768
+    second: 3DS - Puzzle & Dragons Z - Children_30
+  - first:
+      213: 7051089708575617565
+    second: 3DS - Puzzle & Dragons Z - Children_31
+  - first:
+      213: -5646171603263067022
+    second: 3DS - Puzzle & Dragons Z - Children_32
+  - first:
+      213: -1429334295067486648
+    second: 3DS - Puzzle & Dragons Z - Children_33
+  - first:
+      213: 4310323546151130080
+    second: 3DS - Puzzle & Dragons Z - Children_34
+  - first:
+      213: -7666362873547727524
+    second: 3DS - Puzzle & Dragons Z - Children_35
+  - first:
+      213: -3297803079557210065
+    second: 3DS - Puzzle & Dragons Z - Children_36
+  - first:
+      213: 73843753434860876
+    second: 3DS - Puzzle & Dragons Z - Children_37
+  - first:
+      213: 6305097305970331728
+    second: 3DS - Puzzle & Dragons Z - Children_38
+  - first:
+      213: -1061669155206147976
+    second: 3DS - Puzzle & Dragons Z - Children_39
+  - first:
+      213: 3650077126182444940
+    second: 3DS - Puzzle & Dragons Z - Children_40
+  - first:
+      213: -8883699493311964528
+    second: 3DS - Puzzle & Dragons Z - Children_41
+  - first:
+      213: -2980228420092840771
+    second: 3DS - Puzzle & Dragons Z - Children_42
+  - first:
+      213: -4070052958781793798
+    second: 3DS - Puzzle & Dragons Z - Children_43
+  - first:
+      213: 1344503893530020433
+    second: 3DS - Puzzle & Dragons Z - Children_44
+  - first:
+      213: -5205842233698786826
+    second: 3DS - Puzzle & Dragons Z - Children_45
+  - first:
+      213: -4153098081270560544
+    second: 3DS - Puzzle & Dragons Z - Children_46
+  - first:
+      213: -4556321591712385202
+    second: 3DS - Puzzle & Dragons Z - Children_47
+  - first:
+      213: 384217444130059043
+    second: 3DS - Puzzle & Dragons Z - Children_48
+  - first:
+      213: 6342274586158395458
+    second: 3DS - Puzzle & Dragons Z - Children_49
+  - first:
+      213: 4309488129766796128
+    second: 3DS - Puzzle & Dragons Z - Children_50
+  - first:
+      213: -5982732883610831558
+    second: 3DS - Puzzle & Dragons Z - Children_51
+  - first:
+      213: 1267134689225081499
+    second: 3DS - Puzzle & Dragons Z - Children_52
+  - first:
+      213: -2942912542193779592
+    second: 3DS - Puzzle & Dragons Z - Children_53
+  - first:
+      213: -180030714018568160
+    second: 3DS - Puzzle & Dragons Z - Children_54
+  - first:
+      213: -1047138707725068681
+    second: 3DS - Puzzle & Dragons Z - Children_55
+  - first:
+      213: 6599999813584386051
+    second: 3DS - Puzzle & Dragons Z - Children_56
+  - first:
+      213: -4502802489423498748
+    second: 3DS - Puzzle & Dragons Z - Children_57
+  - first:
+      213: -6414413218359695850
+    second: 3DS - Puzzle & Dragons Z - Children_58
+  - first:
+      213: -559432750974284438
+    second: 3DS - Puzzle & Dragons Z - Children_59
+  - first:
+      213: -1800310820946862403
+    second: 3DS - Puzzle & Dragons Z - Children_60
+  - first:
+      213: -296580853095312134
+    second: 3DS - Puzzle & Dragons Z - Children_61
+  - first:
+      213: 7623154892674419772
+    second: 3DS - Puzzle & Dragons Z - Children_62
+  - first:
+      213: 39111384101965024
+    second: 3DS - Puzzle & Dragons Z - Children_63
+  - first:
+      213: 7757593170964558993
+    second: 3DS - Puzzle & Dragons Z - Children_64
+  - first:
+      213: 7422570421597328401
+    second: 3DS - Puzzle & Dragons Z - Children_65
+  - first:
+      213: -4488172643548559323
+    second: 3DS - Puzzle & Dragons Z - Children_66
+  - first:
+      213: 2218267114004710711
+    second: 3DS - Puzzle & Dragons Z - Children_67
+  - first:
+      213: -434742254490166428
+    second: 3DS - Puzzle & Dragons Z - Children_68
+  - first:
+      213: -7360450786066589826
+    second: 3DS - Puzzle & Dragons Z - Children_69
+  - first:
+      213: 6455340836333550946
+    second: 3DS - Puzzle & Dragons Z - Children_70
+  - first:
+      213: -2006018261809670618
+    second: 3DS - Puzzle & Dragons Z - Children_71
+  - first:
+      213: 9104561686170714971
+    second: 3DS - Puzzle & Dragons Z - Children_72
+  - first:
+      213: 1854057226814625205
+    second: 3DS - Puzzle & Dragons Z - Children_73
+  - first:
+      213: -3813532001747314743
+    second: 3DS - Puzzle & Dragons Z - Children_74
+  - first:
+      213: 8544119716666691317
+    second: 3DS - Puzzle & Dragons Z - Children_75
+  - first:
+      213: 8940248219680865355
+    second: 3DS - Puzzle & Dragons Z - Children_76
+  - first:
+      213: -6566566075883581511
+    second: 3DS - Puzzle & Dragons Z - Children_77
+  - first:
+      213: -3777249394030074696
+    second: 3DS - Puzzle & Dragons Z - Children_78
+  - first:
+      213: -3329376221274483026
+    second: 3DS - Puzzle & Dragons Z - Children_79
+  - first:
+      213: -8528009524564701066
+    second: 3DS - Puzzle & Dragons Z - Children_80
+  - first:
+      213: 5319257292282015673
+    second: 3DS - Puzzle & Dragons Z - Children_81
+  - first:
+      213: 4051015059060709316
+    second: 3DS - Puzzle & Dragons Z - Children_82
+  - first:
+      213: 495164977153855591
+    second: 3DS - Puzzle & Dragons Z - Children_83
+  - first:
+      213: 4923535957835013112
+    second: 3DS - Puzzle & Dragons Z - Children_84
+  - first:
+      213: -1994133023407553359
+    second: 3DS - Puzzle & Dragons Z - Children_85
+  - first:
+      213: -2410416948993183370
+    second: 3DS - Puzzle & Dragons Z - Children_86
+  - first:
+      213: -531632363744502462
+    second: 3DS - Puzzle & Dragons Z - Children_87
+  - first:
+      213: 1131342122251801802
+    second: 3DS - Puzzle & Dragons Z - Children_88
+  - first:
+      213: 8697172884948342456
+    second: 3DS - Puzzle & Dragons Z - Children_89
+  - first:
+      213: -4886637496603959295
+    second: 3DS - Puzzle & Dragons Z - Children_90
+  - first:
+      213: -267545632639745975
+    second: 3DS - Puzzle & Dragons Z - Children_91
+  - first:
+      213: -3672108089647147394
+    second: 3DS - Puzzle & Dragons Z - Children_92
+  - first:
+      213: 3640008723605509309
+    second: 3DS - Puzzle & Dragons Z - Children_93
+  - first:
+      213: 9215885696003007608
+    second: 3DS - Puzzle & Dragons Z - Children_94
+  - first:
+      213: 6573792050223296761
+    second: 3DS - Puzzle & Dragons Z - Children_95
+  - first:
+      213: -3688755959967431410
+    second: 3DS - Puzzle & Dragons Z - Children_96
+  - first:
+      213: -7874710507754134905
+    second: 3DS - Puzzle & Dragons Z - Children_97
+  - first:
+      213: -5757812989588409464
+    second: 3DS - Puzzle & Dragons Z - Children_98
+  - first:
+      213: 5778660688286090127
+    second: 3DS - Puzzle & Dragons Z - Children_99
+  - first:
+      213: -9145471395719386760
+    second: 3DS - Puzzle & Dragons Z - Children_100
+  - first:
+      213: -799255662229102259
+    second: 3DS - Puzzle & Dragons Z - Children_101
+  - first:
+      213: -3734497970649335233
+    second: 3DS - Puzzle & Dragons Z - Children_102
+  - first:
+      213: -4734751917002141092
+    second: 3DS - Puzzle & Dragons Z - Children_103
+  - first:
+      213: 5326708093327827815
+    second: 3DS - Puzzle & Dragons Z - Children_104
+  - first:
+      213: 4563438439918808058
+    second: 3DS - Puzzle & Dragons Z - Children_105
+  - first:
+      213: -4317659359899508226
+    second: 3DS - Puzzle & Dragons Z - Children_106
+  - first:
+      213: -8761569009011973288
+    second: 3DS - Puzzle & Dragons Z - Children_107
+  - first:
+      213: 1089813456471123995
+    second: 3DS - Puzzle & Dragons Z - Children_108
+  - first:
+      213: -2257145253002255580
+    second: 3DS - Puzzle & Dragons Z - Children_109
+  - first:
+      213: 5695067700478005905
+    second: 3DS - Puzzle & Dragons Z - Children_110
+  - first:
+      213: -2671140130615867698
+    second: 3DS - Puzzle & Dragons Z - Children_111
+  - first:
+      213: -3173992747927047874
+    second: 3DS - Puzzle & Dragons Z - Children_112
+  - first:
+      213: -3513443924490248577
+    second: 3DS - Puzzle & Dragons Z - Children_113
+  - first:
+      213: 2597376804625033963
+    second: 3DS - Puzzle & Dragons Z - Children_114
+  - first:
+      213: 2164724314067704516
+    second: 3DS - Puzzle & Dragons Z - Children_115
+  - first:
+      213: 5719371564786886662
+    second: 3DS - Puzzle & Dragons Z - Children_116
+  - first:
+      213: 5380492974836714014
+    second: 3DS - Puzzle & Dragons Z - Children_117
+  - first:
+      213: -2169527625945125914
+    second: 3DS - Puzzle & Dragons Z - Children_118
+  - first:
+      213: -5578115428041329533
+    second: 3DS - Puzzle & Dragons Z - Children_119
+  - first:
+      213: -6485393347121614862
+    second: 3DS - Puzzle & Dragons Z - Children_120
+  - first:
+      213: 5742065425615916594
+    second: 3DS - Puzzle & Dragons Z - Children_121
+  - first:
+      213: -893641554058073928
+    second: 3DS - Puzzle & Dragons Z - Children_122
+  - first:
+      213: -2822634365567411581
+    second: 3DS - Puzzle & Dragons Z - Children_123
+  - first:
+      213: -7631101870307585098
+    second: 3DS - Puzzle & Dragons Z - Children_124
+  - first:
+      213: -1812098608160940366
+    second: 3DS - Puzzle & Dragons Z - Children_125
+  - first:
+      213: 7884801148477596992
+    second: 3DS - Puzzle & Dragons Z - Children_126
+  - first:
+      213: -3260556877530420132
+    second: 3DS - Puzzle & Dragons Z - Children_127
+  - first:
+      213: 7498216498103966034
+    second: 3DS - Puzzle & Dragons Z - Children_128
+  - first:
+      213: 2307666967471002444
+    second: 3DS - Puzzle & Dragons Z - Children_129
+  - first:
+      213: -3127631855616984159
+    second: 3DS - Puzzle & Dragons Z - Children_130
+  - first:
+      213: 7812638154633818301
+    second: 3DS - Puzzle & Dragons Z - Children_131
+  - first:
+      213: 8815850452858822756
+    second: 3DS - Puzzle & Dragons Z - Children_132
+  - first:
+      213: -6742865380837892921
+    second: 3DS - Puzzle & Dragons Z - Children_133
+  - first:
+      213: 7719227816560940664
+    second: 3DS - Puzzle & Dragons Z - Children_134
+  - first:
+      213: 3599263668302747340
+    second: 3DS - Puzzle & Dragons Z - Children_135
+  - first:
+      213: 4358139743524524234
+    second: 3DS - Puzzle & Dragons Z - Children_136
+  - first:
+      213: -8769472901535948425
+    second: 3DS - Puzzle & Dragons Z - Children_137
+  - first:
+      213: -2185374149894138007
+    second: 3DS - Puzzle & Dragons Z - Children_138
+  - first:
+      213: -2018411971860717246
+    second: 3DS - Puzzle & Dragons Z - Children_139
+  - first:
+      213: 4376786420447031013
+    second: 3DS - Puzzle & Dragons Z - Children_140
+  - first:
+      213: 3973487991970670185
+    second: 3DS - Puzzle & Dragons Z - Children_141
+  - first:
+      213: 1215661607621498997
+    second: 3DS - Puzzle & Dragons Z - Children_142
+  - first:
+      213: 8260979636502801473
+    second: 3DS - Puzzle & Dragons Z - Children_143
+  - first:
+      213: -992299723785279545
+    second: 3DS - Puzzle & Dragons Z - Children_144
+  - first:
+      213: 567761031887397328
+    second: 3DS - Puzzle & Dragons Z - Children_145
+  - first:
+      213: 2346761917071298260
+    second: 3DS - Puzzle & Dragons Z - Children_146
+  - first:
+      213: -4079912366986732461
+    second: 3DS - Puzzle & Dragons Z - Children_147
+  - first:
+      213: -2476871650562317674
+    second: 3DS - Puzzle & Dragons Z - Children_148
+  - first:
+      213: 4601190931584986338
+    second: 3DS - Puzzle & Dragons Z - Children_149
+  - first:
+      213: 4183321569862930171
+    second: 3DS - Puzzle & Dragons Z - Children_150
+  - first:
+      213: -1137090525885749053
+    second: 3DS - Puzzle & Dragons Z - Children_151
+  - first:
+      213: -9220670259832694454
+    second: 3DS - Puzzle & Dragons Z - Children_152
+  - first:
+      213: -2078349901392303335
+    second: 3DS - Puzzle & Dragons Z - Children_153
+  - first:
+      213: 8657645041441095257
+    second: 3DS - Puzzle & Dragons Z - Children_154
+  - first:
+      213: -833655667139410483
+    second: 3DS - Puzzle & Dragons Z - Children_155
+  - first:
+      213: -4678038975706237700
+    second: 3DS - Puzzle & Dragons Z - Children_156
+  - first:
+      213: -7677603824410585330
+    second: 3DS - Puzzle & Dragons Z - Children_157
+  - first:
+      213: 2897957242551309506
+    second: 3DS - Puzzle & Dragons Z - Children_158
+  - first:
+      213: -3931783977948828935
+    second: 3DS - Puzzle & Dragons Z - Children_159
+  - first:
+      213: 8793329465613628995
+    second: 3DS - Puzzle & Dragons Z - Children_160
+  - first:
+      213: 804748218645530487
+    second: 3DS - Puzzle & Dragons Z - Children_161
+  - first:
+      213: 8594628008132974223
+    second: 3DS - Puzzle & Dragons Z - Children_162
+  - first:
+      213: -5437922752920892711
+    second: 3DS - Puzzle & Dragons Z - Children_163
+  - first:
+      213: -4891721765661161832
+    second: 3DS - Puzzle & Dragons Z - Children_164
+  - first:
+      213: -8897815485787800507
+    second: 3DS - Puzzle & Dragons Z - Children_165
+  - first:
+      213: 6289843297434314910
+    second: 3DS - Puzzle & Dragons Z - Children_166
+  - first:
+      213: 1103477651515071789
+    second: 3DS - Puzzle & Dragons Z - Children_167
+  - first:
+      213: -5765606458184507366
+    second: 3DS - Puzzle & Dragons Z - Children_0
+  - first:
+      213: 8571922338157316078
+    second: 3DS - Puzzle & Dragons Z - Children_1
+  - first:
+      213: -7213734867866968812
+    second: 3DS - Puzzle & Dragons Z - Children_2
+  - first:
+      213: 3209240015912544996
+    second: 3DS - Puzzle & Dragons Z - Children_3
+  - first:
+      213: 3559278268530471776
+    second: 3DS - Puzzle & Dragons Z - Children_4
+  - first:
+      213: -6422738245072213165
+    second: 3DS - Puzzle & Dragons Z - Children_5
+  - first:
+      213: -4330426760215160953
+    second: 3DS - Puzzle & Dragons Z - Children_6
+  - first:
+      213: 1567606594734808580
+    second: 3DS - Puzzle & Dragons Z - Children_7
+  - first:
+      213: 9213563214457627566
+    second: 3DS - Puzzle & Dragons Z - Children_8
+  - first:
+      213: 6362743011975220930
+    second: 3DS - Puzzle & Dragons Z - Children_9
+  - first:
+      213: -8224413395537655717
+    second: 3DS - Puzzle & Dragons Z - Children_10
+  - first:
+      213: 870092713178731302
+    second: 3DS - Puzzle & Dragons Z - Children_11
+  - first:
+      213: 4931004896624957993
+    second: 3DS - Puzzle & Dragons Z - Children_12
+  - first:
+      213: -6098190787986515110
+    second: 3DS - Puzzle & Dragons Z - Children_13
+  - first:
+      213: -1241071640310117019
+    second: 3DS - Puzzle & Dragons Z - Children_14
+  - first:
+      213: 5248496344368270786
+    second: 3DS - Puzzle & Dragons Z - Children_15
+  - first:
+      213: -8244475723442306090
+    second: 3DS - Puzzle & Dragons Z - Children_16
+  - first:
+      213: 2215759377130026994
+    second: 3DS - Puzzle & Dragons Z - Children_17
+  - first:
+      213: 3127579991533785137
+    second: 3DS - Puzzle & Dragons Z - Children_18
+  - first:
+      213: -7245078425069382475
+    second: 3DS - Puzzle & Dragons Z - Children_19
+  - first:
+      213: -5628011028734062960
+    second: 3DS - Puzzle & Dragons Z - Children_20
+  - first:
+      213: -5707022444237901316
+    second: 3DS - Puzzle & Dragons Z - Children_21
+  - first:
+      213: -1834854561307296222
+    second: 3DS - Puzzle & Dragons Z - Children_22
+  - first:
+      213: 6067010781707482881
+    second: 3DS - Puzzle & Dragons Z - Children_23
+  - first:
+      213: -568053105241342003
+    second: 3DS - Puzzle & Dragons Z - Children_24
+  - first:
+      213: -6110272011421470683
+    second: 3DS - Puzzle & Dragons Z - Children_25
+  - first:
+      213: -7070899984459879348
+    second: 3DS - Puzzle & Dragons Z - Children_26
+  - first:
+      213: 1495108396667124803
+    second: 3DS - Puzzle & Dragons Z - Children_27
+  - first:
+      213: -1947808064210810662
+    second: 3DS - Puzzle & Dragons Z - Children_28
+  - first:
+      213: 6262709551573015445
+    second: 3DS - Puzzle & Dragons Z - Children_29
+  - first:
+      213: 248134961581937236
+    second: 3DS - Puzzle & Dragons Z - Children_30
+  - first:
+      213: -8418111964578919254
+    second: 3DS - Puzzle & Dragons Z - Children_31
+  - first:
+      213: 3206790457809148928
+    second: 3DS - Puzzle & Dragons Z - Children_32
+  - first:
+      213: 8797969583774623935
+    second: 3DS - Puzzle & Dragons Z - Children_33
+  - first:
+      213: -7784934459188224821
+    second: 3DS - Puzzle & Dragons Z - Children_34
+  - first:
+      213: 8060848620577880984
+    second: 3DS - Puzzle & Dragons Z - Children_35
+  - first:
+      213: 2323693592407493987
+    second: 3DS - Puzzle & Dragons Z - Children_36
+  - first:
+      213: 3524490202740581171
+    second: 3DS - Puzzle & Dragons Z - Children_37
+  - first:
+      213: -9024516244993533120
+    second: 3DS - Puzzle & Dragons Z - Children_38
+  - first:
+      213: -5306352161879681917
+    second: 3DS - Puzzle & Dragons Z - Children_39
+  - first:
+      213: -7930946981901432559
+    second: 3DS - Puzzle & Dragons Z - Children_40
+  - first:
+      213: 7157549021591212495
+    second: 3DS - Puzzle & Dragons Z - Children_41
+  - first:
+      213: 3320718201250973317
+    second: 3DS - Puzzle & Dragons Z - Children_42
+  - first:
+      213: -1023647786057407074
+    second: 3DS - Puzzle & Dragons Z - Children_43
+  - first:
+      213: 6333445309714275879
+    second: 3DS - Puzzle & Dragons Z - Children_44
+  - first:
+      213: -9182172650098392983
+    second: 3DS - Puzzle & Dragons Z - Children_45
+  - first:
+      213: 4291668989907001316
+    second: 3DS - Puzzle & Dragons Z - Children_46
+  - first:
+      213: 3123920808355739282
+    second: 3DS - Puzzle & Dragons Z - Children_47
+  - first:
+      213: -8562400188420441169
+    second: 3DS - Puzzle & Dragons Z - Children_48
+  - first:
+      213: 8091234358225848730
+    second: 3DS - Puzzle & Dragons Z - Children_49
+  - first:
+      213: -4387173531647751552
+    second: 3DS - Puzzle & Dragons Z - Children_50
+  - first:
+      213: -6350009963429048631
+    second: 3DS - Puzzle & Dragons Z - Children_51
+  - first:
+      213: -796028739799942285
+    second: 3DS - Puzzle & Dragons Z - Children_52
+  - first:
+      213: 4362508953899784139
+    second: 3DS - Puzzle & Dragons Z - Children_53
+  - first:
+      213: -7499648409293621015
+    second: 3DS - Puzzle & Dragons Z - Children_54
+  - first:
+      213: 1345390795032238579
+    second: 3DS - Puzzle & Dragons Z - Children_55
+  - first:
+      213: -5130312547076907080
+    second: 3DS - Puzzle & Dragons Z - Children_56
+  - first:
+      213: 3687429836338884424
+    second: 3DS - Puzzle & Dragons Z - Children_57
+  - first:
+      213: 645522252732788798
+    second: 3DS - Puzzle & Dragons Z - Children_58
+  - first:
+      213: -6692896545784621607
+    second: 3DS - Puzzle & Dragons Z - Children_59
+  - first:
+      213: -5529057006484678866
+    second: 3DS - Puzzle & Dragons Z - Children_60
+  - first:
+      213: -7291796059712825691
+    second: 3DS - Puzzle & Dragons Z - Children_61
+  - first:
+      213: -2220212168465268212
+    second: 3DS - Puzzle & Dragons Z - Children_62
+  - first:
+      213: -8696272546202524142
+    second: 3DS - Puzzle & Dragons Z - Children_63
+  - first:
+      213: -6681005671942068473
+    second: 3DS - Puzzle & Dragons Z - Children_64
+  - first:
+      213: 8955734781708965141
+    second: 3DS - Puzzle & Dragons Z - Children_65
+  - first:
+      213: 1080861192726227584
+    second: 3DS - Puzzle & Dragons Z - Children_66
+  - first:
+      213: 3741281470537641566
+    second: 3DS - Puzzle & Dragons Z - Children_67
+  - first:
+      213: 7956403179715302251
+    second: 3DS - Puzzle & Dragons Z - Children_68
+  - first:
+      213: 8426394133117484556
+    second: 3DS - Puzzle & Dragons Z - Children_69
+  - first:
+      213: -5378627724939717458
+    second: 3DS - Puzzle & Dragons Z - Children_70
+  - first:
+      213: 8208639164138194554
+    second: 3DS - Puzzle & Dragons Z - Children_71
+  - first:
+      213: 204330721290729076
+    second: 3DS - Puzzle & Dragons Z - Children_72
+  - first:
+      213: -1403924768730218124
+    second: 3DS - Puzzle & Dragons Z - Children_73
+  - first:
+      213: -8942887383351388908
+    second: 3DS - Puzzle & Dragons Z - Children_74
+  - first:
+      213: -8869127685640945843
+    second: 3DS - Puzzle & Dragons Z - Children_75
+  - first:
+      213: 8614640244877737888
+    second: 3DS - Puzzle & Dragons Z - Children_76
+  - first:
+      213: 6276590112009317959
+    second: 3DS - Puzzle & Dragons Z - Children_77
+  - first:
+      213: 6384825118058814285
+    second: 3DS - Puzzle & Dragons Z - Children_78
+  - first:
+      213: -8306757978797849735
+    second: 3DS - Puzzle & Dragons Z - Children_79
+  - first:
+      213: 9085688900279632334
+    second: 3DS - Puzzle & Dragons Z - Children_80
+  - first:
+      213: -7637179856861160820
+    second: 3DS - Puzzle & Dragons Z - Children_81
+  - first:
+      213: 7282569532689318276
+    second: 3DS - Puzzle & Dragons Z - Children_82
+  - first:
+      213: -2993653637797579953
+    second: 3DS - Puzzle & Dragons Z - Children_83
+  - first:
+      213: -7463707835212399628
+    second: 3DS - Puzzle & Dragons Z - Children_84
+  - first:
+      213: 1937643890570233770
+    second: 3DS - Puzzle & Dragons Z - Children_85
+  - first:
+      213: -3955696247208548686
+    second: 3DS - Puzzle & Dragons Z - Children_86
+  - first:
+      213: 237885575373588342
+    second: 3DS - Puzzle & Dragons Z - Children_87
+  - first:
+      213: 2586787040396123339
+    second: 3DS - Puzzle & Dragons Z - Children_88
+  - first:
+      213: 4436852900515970585
+    second: 3DS - Puzzle & Dragons Z - Children_89
+  - first:
+      213: -7051420010663625771
+    second: 3DS - Puzzle & Dragons Z - Children_90
+  - first:
+      213: -7959900940972773600
+    second: 3DS - Puzzle & Dragons Z - Children_91
+  - first:
+      213: 8390035887866300720
+    second: 3DS - Puzzle & Dragons Z - Children_92
+  - first:
+      213: -7399184686359529516
+    second: 3DS - Puzzle & Dragons Z - Children_93
+  - first:
+      213: 6873140339047501665
+    second: 3DS - Puzzle & Dragons Z - Children_94
+  - first:
+      213: 1791607501678472313
+    second: 3DS - Puzzle & Dragons Z - Children_95
+  - first:
+      213: 22748199834809717
+    second: 3DS - Puzzle & Dragons Z - Children_96
+  - first:
+      213: 1764343015627903321
+    second: 3DS - Puzzle & Dragons Z - Children_97
+  - first:
+      213: 3170215987951817073
+    second: 3DS - Puzzle & Dragons Z - Children_98
+  - first:
+      213: -6681245970219468172
+    second: 3DS - Puzzle & Dragons Z - Children_99
+  - first:
+      213: -3989729365043515128
+    second: 3DS - Puzzle & Dragons Z - Children_100
+  - first:
+      213: -4564303851066891949
+    second: 3DS - Puzzle & Dragons Z - Children_101
+  - first:
+      213: 7519282614553728217
+    second: 3DS - Puzzle & Dragons Z - Children_102
+  - first:
+      213: -2854308736327264053
+    second: 3DS - Puzzle & Dragons Z - Children_103
+  - first:
+      213: 1616185885193797856
+    second: 3DS - Puzzle & Dragons Z - Children_104
+  - first:
+      213: 2074463759173834911
+    second: 3DS - Puzzle & Dragons Z - Children_105
+  - first:
+      213: -3392600822339530769
+    second: 3DS - Puzzle & Dragons Z - Children_106
+  - first:
+      213: 7063176453364354224
+    second: 3DS - Puzzle & Dragons Z - Children_107
+  - first:
+      213: -4252271308220578073
+    second: 3DS - Puzzle & Dragons Z - Children_108
+  - first:
+      213: -1688440804545190471
+    second: 3DS - Puzzle & Dragons Z - Children_109
+  - first:
+      213: 5907671760242262311
+    second: 3DS - Puzzle & Dragons Z - Children_110
+  - first:
+      213: -8483987146704208898
+    second: 3DS - Puzzle & Dragons Z - Children_111
+  - first:
+      213: 1157190951744812363
+    second: 3DS - Puzzle & Dragons Z - Children_112
+  - first:
+      213: -5946595252355815151
+    second: 3DS - Puzzle & Dragons Z - Children_113
+  - first:
+      213: 5944056938263395678
+    second: 3DS - Puzzle & Dragons Z - Children_114
+  - first:
+      213: -8876017552317466683
+    second: 3DS - Puzzle & Dragons Z - Children_115
+  - first:
+      213: 5154209368331844554
+    second: 3DS - Puzzle & Dragons Z - Children_116
+  - first:
+      213: -1181328124137330105
+    second: 3DS - Puzzle & Dragons Z - Children_117
+  - first:
+      213: -1634969694326334224
+    second: 3DS - Puzzle & Dragons Z - Children_118
+  - first:
+      213: -8941776143968804352
+    second: 3DS - Puzzle & Dragons Z - Children_119
+  - first:
+      213: 5738239622159696068
+    second: 3DS - Puzzle & Dragons Z - Children_120
+  - first:
+      213: -8632385132248625342
+    second: 3DS - Puzzle & Dragons Z - Children_121
+  - first:
+      213: 728186761291239033
+    second: 3DS - Puzzle & Dragons Z - Children_122
+  - first:
+      213: -7647212441201863529
+    second: 3DS - Puzzle & Dragons Z - Children_123
+  - first:
+      213: -6072251402795035873
+    second: 3DS - Puzzle & Dragons Z - Children_124
+  - first:
+      213: 2389316632354385448
+    second: 3DS - Puzzle & Dragons Z - Children_125
+  - first:
+      213: 6937130040264001024
+    second: 3DS - Puzzle & Dragons Z - Children_126
+  - first:
+      213: -168986934347514520
+    second: 3DS - Puzzle & Dragons Z - Children_127
+  - first:
+      213: 3132454577823317933
+    second: 3DS - Puzzle & Dragons Z - Children_128
+  - first:
+      213: -4370415380709297992
+    second: 3DS - Puzzle & Dragons Z - Children_129
+  - first:
+      213: 3989653650255861286
+    second: 3DS - Puzzle & Dragons Z - Children_130
+  - first:
+      213: 3959887567062530254
+    second: 3DS - Puzzle & Dragons Z - Children_131
+  - first:
+      213: 2586205203135355683
+    second: 3DS - Puzzle & Dragons Z - Children_132
+  - first:
+      213: -8279956282574255459
+    second: 3DS - Puzzle & Dragons Z - Children_133
+  - first:
+      213: -4221820112445986732
+    second: 3DS - Puzzle & Dragons Z - Children_134
+  - first:
+      213: -7613487128858322602
+    second: 3DS - Puzzle & Dragons Z - Children_135
+  - first:
+      213: -615133306369834721
+    second: 3DS - Puzzle & Dragons Z - Children_136
+  - first:
+      213: -5396288662476453433
+    second: 3DS - Puzzle & Dragons Z - Children_137
+  - first:
+      213: -2606737089372824385
+    second: 3DS - Puzzle & Dragons Z - Children_138
+  - first:
+      213: -3665413556891036964
+    second: 3DS - Puzzle & Dragons Z - Children_139
+  - first:
+      213: -6417014224303076546
+    second: 3DS - Puzzle & Dragons Z - Children_140
+  - first:
+      213: 6741202141419292783
+    second: 3DS - Puzzle & Dragons Z - Children_141
+  - first:
+      213: -6949502510551441406
+    second: 3DS - Puzzle & Dragons Z - Children_142
+  - first:
+      213: -8596643857706556202
+    second: 3DS - Puzzle & Dragons Z - Children_143
+  - first:
+      213: 7108859205004561578
+    second: 3DS - Puzzle & Dragons Z - Children_144
+  - first:
+      213: -9061624600086370698
+    second: 3DS - Puzzle & Dragons Z - Children_145
+  - first:
+      213: -2092369897016563604
+    second: 3DS - Puzzle & Dragons Z - Children_146
+  - first:
+      213: 979652710144743020
+    second: 3DS - Puzzle & Dragons Z - Children_147
+  - first:
+      213: 556949428460733433
+    second: 3DS - Puzzle & Dragons Z - Children_148
+  - first:
+      213: -653764416819964232
+    second: 3DS - Puzzle & Dragons Z - Children_149
+  - first:
+      213: -1134377680423212030
+    second: 3DS - Puzzle & Dragons Z - Children_150
+  - first:
+      213: -1953308820637096905
+    second: 3DS - Puzzle & Dragons Z - Children_151
+  - first:
+      213: 8493496647990314926
+    second: 3DS - Puzzle & Dragons Z - Children_152
+  - first:
+      213: -506832297893345461
+    second: 3DS - Puzzle & Dragons Z - Children_153
+  - first:
+      213: 4829983454279454937
+    second: 3DS - Puzzle & Dragons Z - Children_154
+  - first:
+      213: -6328572581385915965
+    second: 3DS - Puzzle & Dragons Z - Children_155
+  - first:
+      213: -5571909372933952700
+    second: 3DS - Puzzle & Dragons Z - Children_156
+  - first:
+      213: -385810466065321382
+    second: 3DS - Puzzle & Dragons Z - Children_157
+  - first:
+      213: -5690421654757464353
+    second: 3DS - Puzzle & Dragons Z - Children_158
+  - first:
+      213: -3044505122522722713
+    second: 3DS - Puzzle & Dragons Z - Children_159
+  - first:
+      213: 170252919381737101
+    second: 3DS - Puzzle & Dragons Z - Children_160
+  - first:
+      213: -2112554768858336369
+    second: 3DS - Puzzle & Dragons Z - Children_161
+  - first:
+      213: -6835110056091457003
+    second: 3DS - Puzzle & Dragons Z - Children_162
+  - first:
+      213: 7809736480458437316
+    second: 3DS - Puzzle & Dragons Z - Children_163
+  - first:
+      213: -5270603283787594358
+    second: 3DS - Puzzle & Dragons Z - Children_164
+  - first:
+      213: -5463897715037301354
+    second: 3DS - Puzzle & Dragons Z - Children_165
+  - first:
+      213: -7992632060612421748
+    second: 3DS - Puzzle & Dragons Z - Children_166
+  - first:
+      213: 1535243714566837891
+    second: 3DS - Puzzle & Dragons Z - Children_167
+  - first:
+      213: 1667903537206588902
+    second: 3DS - Puzzle & Dragons Z - Children_168
+  - first:
+      213: -5817304106535060954
+    second: 3DS - Puzzle & Dragons Z - Children_169
+  - first:
+      213: -2922211011420371725
+    second: 3DS - Puzzle & Dragons Z - Children_170
+  - first:
+      213: 1333847737303652728
+    second: 3DS - Puzzle & Dragons Z - Children_171
+  - first:
+      213: -1177490693732225948
+    second: 3DS - Puzzle & Dragons Z - Children_172
+  - first:
+      213: -8621455522734810452
+    second: 3DS - Puzzle & Dragons Z - Children_173
+  - first:
+      213: -1054724202634343446
+    second: 3DS - Puzzle & Dragons Z - Children_174
+  - first:
+      213: 4150615465592413927
+    second: 3DS - Puzzle & Dragons Z - Children_175
+  - first:
+      213: 6235122035714479174
+    second: 3DS - Puzzle & Dragons Z - Children_176
+  - first:
+      213: -6597032662935899507
+    second: 3DS - Puzzle & Dragons Z - Children_177
+  - first:
+      213: -305815751882088114
+    second: 3DS - Puzzle & Dragons Z - Children_178
+  - first:
+      213: 112589405147105296
+    second: 3DS - Puzzle & Dragons Z - Children_179
+  - first:
+      213: -7802695012184934817
+    second: 3DS - Puzzle & Dragons Z - Children_180
+  - first:
+      213: -4701858318607949040
+    second: 3DS - Puzzle & Dragons Z - Children_181
+  - first:
+      213: -4166568005703916006
+    second: 3DS - Puzzle & Dragons Z - Children_182
+  - first:
+      213: 1114111519003493962
+    second: 3DS - Puzzle & Dragons Z - Children_183
+  - first:
+      213: 9071367879839379372
+    second: 3DS - Puzzle & Dragons Z - Children_184
+  - first:
+      213: -4034260265151931896
+    second: 3DS - Puzzle & Dragons Z - Children_185
+  - first:
+      213: -5719707037600580445
+    second: 3DS - Puzzle & Dragons Z - Children_186
+  - first:
+      213: 6675146493490015658
+    second: 3DS - Puzzle & Dragons Z - Children_187
+  - first:
+      213: -2462750637260347255
+    second: 3DS - Puzzle & Dragons Z - Children_188
+  - first:
+      213: 2280988672903172317
+    second: 3DS - Puzzle & Dragons Z - Children_189
+  - first:
+      213: -594220849855116498
+    second: 3DS - Puzzle & Dragons Z - Children_190
+  - first:
+      213: -4277589302828788396
+    second: 3DS - Puzzle & Dragons Z - Children_191
+  - first:
+      213: 2542724202578322813
+    second: 3DS - Puzzle & Dragons Z - Children_192
+  - first:
+      213: 7549177240668367055
+    second: 3DS - Puzzle & Dragons Z - Children_193
+  - first:
+      213: -7688743814014161057
+    second: 3DS - Puzzle & Dragons Z - Children_194
+  - first:
+      213: 8860556501314435514
+    second: 3DS - Puzzle & Dragons Z - Children_195
+  - first:
+      213: 3621784486463941315
+    second: 3DS - Puzzle & Dragons Z - Children_196
+  - first:
+      213: 9029577651226370999
+    second: 3DS - Puzzle & Dragons Z - Children_197
+  - first:
+      213: -5452665765681125312
+    second: 3DS - Puzzle & Dragons Z - Children_198
+  - first:
+      213: -1619271102260121709
+    second: 3DS - Puzzle & Dragons Z - Children_199
+  - first:
+      213: -8224282876545754442
+    second: 3DS - Puzzle & Dragons Z - Children_200
+  - first:
+      213: 2045499303020601497
+    second: 3DS - Puzzle & Dragons Z - Children_201
+  - first:
+      213: 9039322372036602536
+    second: 3DS - Puzzle & Dragons Z - Children_202
+  - first:
+      213: 7874633443688518353
+    second: 3DS - Puzzle & Dragons Z - Children_203
+  - first:
+      213: -5420728765966448496
+    second: 3DS - Puzzle & Dragons Z - Children_204
+  - first:
+      213: -3255391858859468365
+    second: 3DS - Puzzle & Dragons Z - Children_205
+  - first:
+      213: -9081179427076379510
+    second: 3DS - Puzzle & Dragons Z - Children_206
+  - first:
+      213: -3326043060557786365
+    second: 3DS - Puzzle & Dragons Z - Children_207
+  - first:
+      213: -193930874222901008
+    second: 3DS - Puzzle & Dragons Z - Children_208
+  - first:
+      213: -3691497201086076244
+    second: 3DS - Puzzle & Dragons Z - Children_209
+  - first:
+      213: 7555311510112110082
+    second: 3DS - Puzzle & Dragons Z - Children_210
+  - first:
+      213: -472755294339403326
+    second: 3DS - Puzzle & Dragons Z - Children_211
+  - first:
+      213: 4891508565817184859
+    second: 3DS - Puzzle & Dragons Z - Children_212
+  - first:
+      213: 7533148853451872713
+    second: 3DS - Puzzle & Dragons Z - Children_213
+  - first:
+      213: -2925821919677840228
+    second: 3DS - Puzzle & Dragons Z - Children_214
+  - first:
+      213: 663745360517157136
+    second: 3DS - Puzzle & Dragons Z - Children_215
+  - first:
+      213: 787733808688349031
+    second: 3DS - Puzzle & Dragons Z - Children_216
+  - first:
+      213: -4441776208447915979
+    second: 3DS - Puzzle & Dragons Z - Children_217
+  - first:
+      213: -8555018884989548103
+    second: 3DS - Puzzle & Dragons Z - Children_218
+  - first:
+      213: -4105079360371051833
+    second: 3DS - Puzzle & Dragons Z - Children_219
+  - first:
+      213: 9068280363654094426
+    second: 3DS - Puzzle & Dragons Z - Children_220
+  - first:
+      213: 6344614953517914643
+    second: 3DS - Puzzle & Dragons Z - Children_221
+  - first:
+      213: -5993200405263405300
+    second: 3DS - Puzzle & Dragons Z - Children_222
+  - first:
+      213: 7316207126396108343
+    second: 3DS - Puzzle & Dragons Z - Children_223
+  - first:
+      213: 4007882791419521960
+    second: 3DS - Puzzle & Dragons Z - Children_224
+  - first:
+      213: 668241725264052822
+    second: 3DS - Puzzle & Dragons Z - Children_225
+  - first:
+      213: 2834360671311750874
+    second: 3DS - Puzzle & Dragons Z - Children_226
+  - first:
+      213: -2659434187040767758
+    second: 3DS - Puzzle & Dragons Z - Children_227
+  - first:
+      213: 5928833377400493081
+    second: 3DS - Puzzle & Dragons Z - Children_228
+  - first:
+      213: -9017721765471340222
+    second: 3DS - Puzzle & Dragons Z - Children_229
+  - first:
+      213: 8999070949064145371
+    second: 3DS - Puzzle & Dragons Z - Children_230
+  - first:
+      213: -8079013520276951523
+    second: 3DS - Puzzle & Dragons Z - Children_231
+  - first:
+      213: 5736176628346851568
+    second: 3DS - Puzzle & Dragons Z - Children_232
+  - first:
+      213: -8511000265059872266
+    second: 3DS - Puzzle & Dragons Z - Children_233
+  - first:
+      213: 7355541213001894461
+    second: 3DS - Puzzle & Dragons Z - Children_234
+  - first:
+      213: 6826326326116477688
+    second: 3DS - Puzzle & Dragons Z - Children_235
+  - first:
+      213: -2645627440915955156
+    second: 3DS - Puzzle & Dragons Z - Children_236
+  - first:
+      213: 8938006527909531014
+    second: 3DS - Puzzle & Dragons Z - Children_237
+  - first:
+      213: 1182260083319391766
+    second: 3DS - Puzzle & Dragons Z - Children_238
+  - first:
+      213: 6180490461896967108
+    second: 3DS - Puzzle & Dragons Z - Children_239
+  - first:
+      213: -3168077507792386939
+    second: 3DS - Puzzle & Dragons Z - Children_240
+  - first:
+      213: 8401093161988056862
+    second: 3DS - Puzzle & Dragons Z - Children_241
+  - first:
+      213: 6478792079119308533
+    second: 3DS - Puzzle & Dragons Z - Children_242
+  - first:
+      213: -875675675033551933
+    second: 3DS - Puzzle & Dragons Z - Children_243
+  - first:
+      213: -497396270118191030
+    second: 3DS - Puzzle & Dragons Z - Children_244
+  - first:
+      213: 8477244155094154638
+    second: 3DS - Puzzle & Dragons Z - Children_245
+  - first:
+      213: 3865564776639757481
+    second: 3DS - Puzzle & Dragons Z - Children_246
+  - first:
+      213: -2783921960218505959
+    second: 3DS - Puzzle & Dragons Z - Children_247
+  - first:
+      213: -7549213257337040817
+    second: 3DS - Puzzle & Dragons Z - Children_248
+  - first:
+      213: -945689453981865070
+    second: 3DS - Puzzle & Dragons Z - Children_249
+  - first:
+      213: -4339694558523382640
+    second: 3DS - Puzzle & Dragons Z - Children_250
+  - first:
+      213: 3706487548920308608
+    second: 3DS - Puzzle & Dragons Z - Children_251
+  - first:
+      213: -2173238776849754404
+    second: 3DS - Puzzle & Dragons Z - Children_252
+  - first:
+      213: 5208224408873198555
+    second: 3DS - Puzzle & Dragons Z - Children_253
+  - first:
+      213: 832950331714556168
+    second: 3DS - Puzzle & Dragons Z - Children_254
+  - first:
+      213: 8378045198222652610
+    second: 3DS - Puzzle & Dragons Z - Children_255
+  - first:
+      213: -2601409689288722863
+    second: 3DS - Puzzle & Dragons Z - Children_256
+  - first:
+      213: -2451195464139070665
+    second: 3DS - Puzzle & Dragons Z - Children_257
+  - first:
+      213: 5828895225043337191
+    second: 3DS - Puzzle & Dragons Z - Children_258
+  - first:
+      213: -1311031516220748166
+    second: 3DS - Puzzle & Dragons Z - Children_259
+  - first:
+      213: 3852759320929417916
+    second: 3DS - Puzzle & Dragons Z - Children_260
+  - first:
+      213: -6217556627301689066
+    second: 3DS - Puzzle & Dragons Z - Children_261
+  - first:
+      213: -9047939608076404536
+    second: 3DS - Puzzle & Dragons Z - Children_262
+  - first:
+      213: -6073324735791969237
+    second: 3DS - Puzzle & Dragons Z - Children_263
+  - first:
+      213: 4728930639601119976
+    second: 3DS - Puzzle & Dragons Z - Children_264
+  - first:
+      213: -3415877901197701209
+    second: 3DS - Puzzle & Dragons Z - Children_265
+  - first:
+      213: 8803213667907746094
+    second: 3DS - Puzzle & Dragons Z - Children_266
+  - first:
+      213: -1184942017667065858
+    second: 3DS - Puzzle & Dragons Z - Children_267
+  - first:
+      213: -7199761837233791898
+    second: 3DS - Puzzle & Dragons Z - Children_268
+  - first:
+      213: 6755358026991166471
+    second: 3DS - Puzzle & Dragons Z - Children_269
+  - first:
+      213: 8590095598391475002
+    second: 3DS - Puzzle & Dragons Z - Children_270
+  - first:
+      213: 2493666905950182846
+    second: 3DS - Puzzle & Dragons Z - Children_271
+  - first:
+      213: -1912272482200130851
+    second: 3DS - Puzzle & Dragons Z - Children_272
+  - first:
+      213: 3808657129686356660
+    second: 3DS - Puzzle & Dragons Z - Children_273
+  - first:
+      213: 3896038773845675561
+    second: 3DS - Puzzle & Dragons Z - Children_274
+  - first:
+      213: -5593669704032365993
+    second: 3DS - Puzzle & Dragons Z - Children_275
+  - first:
+      213: -411971645595571730
+    second: 3DS - Puzzle & Dragons Z - Children_276
+  - first:
+      213: -3147836420866254031
+    second: 3DS - Puzzle & Dragons Z - Children_277
+  - first:
+      213: -8039603644857420335
+    second: 3DS - Puzzle & Dragons Z - Children_278
+  - first:
+      213: 3640175741705974474
+    second: 3DS - Puzzle & Dragons Z - Children_279
+  - first:
+      213: 7453837562928677813
+    second: 3DS - Puzzle & Dragons Z - Children_280
+  - first:
+      213: -3246808830687399463
+    second: 3DS - Puzzle & Dragons Z - Children_281
+  - first:
+      213: 8564293493070624619
+    second: 3DS - Puzzle & Dragons Z - Children_282
+  - first:
+      213: 2010154780586857410
+    second: 3DS - Puzzle & Dragons Z - Children_283
+  - first:
+      213: 9003131774486712182
+    second: 3DS - Puzzle & Dragons Z - Children_284
+  - first:
+      213: 5517460945530838709
+    second: 3DS - Puzzle & Dragons Z - Children_285
+  - first:
+      213: -2870335997342998773
+    second: 3DS - Puzzle & Dragons Z - Children_286
+  - first:
+      213: -166431118563385835
+    second: 3DS - Puzzle & Dragons Z - Children_287
+  - first:
+      213: -4424078981007212023
+    second: 3DS - Puzzle & Dragons Z - Children_288
+  - first:
+      213: -2878322774287223205
+    second: 3DS - Puzzle & Dragons Z - Children_289
+  - first:
+      213: -8431017961465706258
+    second: 3DS - Puzzle & Dragons Z - Children_290
+  - first:
+      213: -9090130510297153063
+    second: 3DS - Puzzle & Dragons Z - Children_291
+  - first:
+      213: -708811279752988196
+    second: 3DS - Puzzle & Dragons Z - Children_292
+  - first:
+      213: -6772058449670824860
+    second: 3DS - Puzzle & Dragons Z - Children_293
+  - first:
+      213: -1705053985216447112
+    second: 3DS - Puzzle & Dragons Z - Children_294
+  - first:
+      213: -737861500305801868
+    second: 3DS - Puzzle & Dragons Z - Children_295
+  - first:
+      213: 1492845287576605115
+    second: 3DS - Puzzle & Dragons Z - Children_296
+  - first:
+      213: 4399532214376458387
+    second: 3DS - Puzzle & Dragons Z - Children_297
+  - first:
+      213: -9211815463055291248
+    second: 3DS - Puzzle & Dragons Z - Children_298
+  - first:
+      213: 2608577229883639218
+    second: 3DS - Puzzle & Dragons Z - Children_299
+  - first:
+      213: 6687760830072684998
+    second: 3DS - Puzzle & Dragons Z - Children_300
+  - first:
+      213: 4995005086766048431
+    second: 3DS - Puzzle & Dragons Z - Children_301
+  - first:
+      213: 3177074398332451172
+    second: 3DS - Puzzle & Dragons Z - Children_302
+  - first:
+      213: -5259732509576067433
+    second: 3DS - Puzzle & Dragons Z - Children_303
+  - first:
+      213: -7482375054417786284
+    second: 3DS - Puzzle & Dragons Z - Children_304
+  - first:
+      213: -4787879500870460135
+    second: 3DS - Puzzle & Dragons Z - Children_305
+  - first:
+      213: 6162308900475122932
+    second: 3DS - Puzzle & Dragons Z - Children_306
+  - first:
+      213: 1750681797208797051
+    second: 3DS - Puzzle & Dragons Z - Children_307
+  - first:
+      213: -3311613027362836038
+    second: 3DS - Puzzle & Dragons Z - Children_308
+  - first:
+      213: -1499546923460355028
+    second: 3DS - Puzzle & Dragons Z - Children_309
+  - first:
+      213: 3977735524443088128
+    second: 3DS - Puzzle & Dragons Z - Children_310
+  - first:
+      213: 5795116969974516041
+    second: 3DS - Puzzle & Dragons Z - Children_311
+  - first:
+      213: -4821837958432944442
+    second: 3DS - Puzzle & Dragons Z - Children_312
+  - first:
+      213: 4567757727424211235
+    second: 3DS - Puzzle & Dragons Z - Children_313
+  - first:
+      213: -8835931365601919776
+    second: 3DS - Puzzle & Dragons Z - Children_314
+  - first:
+      213: 717154573319294320
+    second: 3DS - Puzzle & Dragons Z - Children_315
+  - first:
+      213: 2267206956501359670
+    second: 3DS - Puzzle & Dragons Z - Children_316
+  - first:
+      213: 2965913672753378719
+    second: 3DS - Puzzle & Dragons Z - Children_317
+  - first:
+      213: -7283794651633376737
+    second: 3DS - Puzzle & Dragons Z - Children_318
+  - first:
+      213: -7760703830181094284
+    second: 3DS - Puzzle & Dragons Z - Children_319
+  - first:
+      213: -2063146098124256215
+    second: 3DS - Puzzle & Dragons Z - Children_320
+  - first:
+      213: -3686111593441280561
+    second: 3DS - Puzzle & Dragons Z - Children_321
+  - first:
+      213: 3305198415778544171
+    second: 3DS - Puzzle & Dragons Z - Children_322
+  - first:
+      213: 1808739413347536763
+    second: 3DS - Puzzle & Dragons Z - Children_323
+  - first:
+      213: -4090776129633075148
+    second: 3DS - Puzzle & Dragons Z - Children_324
+  - first:
+      213: 5091528430024355798
+    second: 3DS - Puzzle & Dragons Z - Children_325
+  - first:
+      213: 8286921658148188813
+    second: 3DS - Puzzle & Dragons Z - Children_326
+  - first:
+      213: -3914938822320239616
+    second: 3DS - Puzzle & Dragons Z - Children_327
+  - first:
+      213: 9194880281951853020
+    second: 3DS - Puzzle & Dragons Z - Children_328
+  - first:
+      213: 8813174032169638909
+    second: 3DS - Puzzle & Dragons Z - Children_329
+  - first:
+      213: 185771118712692941
+    second: 3DS - Puzzle & Dragons Z - Children_330
+  - first:
+      213: 7048088067535509351
+    second: 3DS - Puzzle & Dragons Z - Children_331
+  - first:
+      213: 4233406693519836248
+    second: 3DS - Puzzle & Dragons Z - Children_332
+  - first:
+      213: 8875348269279223091
+    second: 3DS - Puzzle & Dragons Z - Children_333
+  - first:
+      213: 947110608120008994
+    second: 3DS - Puzzle & Dragons Z - Children_334
+  - first:
+      213: -1631709292328104332
+    second: 3DS - Puzzle & Dragons Z - Children_335
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10e63949737cffa0800000000000000
+      internalID: -5765606458184507366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee74a1853f595f670800000000000000
+      internalID: 8571922338157316078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d90f09b5aa3eb90800000000000000
+      internalID: -7213734867866968812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaaf6b8ac2898c20800000000000000
+      internalID: 3209240015912544996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b6843ab8156130800000000000000
+      internalID: 3559278268530471776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ba7216899ddd6a0800000000000000
+      internalID: -6422738245072213165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787978f1ecb37e3c0800000000000000
+      internalID: -4330426760215160953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e5ab274e141c510800000000000000
+      internalID: 1567606594734808580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36a519de62ddf70800000000000000
+      internalID: 9213563214457627566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec1e1ee010d4850800000000000000
+      internalID: 6362743011975220930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58830177930ddd80800000000000000
+      internalID: -8224413395537655717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6239ca276b0331c00800000000000000
+      internalID: 870092713178731302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ada01f3d27e6440800000000000000
+      internalID: 4931004896624957993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b1185b9cfde5ba0800000000000000
+      internalID: -6098190787986515110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d018a2be3d6cee0800000000000000
+      internalID: -1241071640310117019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdc1031e9766d840800000000000000
+      internalID: 5248496344368270786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c3e8b20db59d80800000000000000
+      internalID: -8244475723442306090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77395f965ffbe10800000000000000
+      internalID: 2215759377130026994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1309df18e65676b20800000000000000
+      internalID: 3127579991533785137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b494e7fe8f447b90800000000000000
+      internalID: -7245078425069382475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4350b9c945e1b0800000000000000
+      internalID: -5628011028734062960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1b406f2559cc0b0800000000000000
+      internalID: -5707022444237901316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef5ca7f794986e0800000000000000
+      internalID: -1834854561307296222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b32c592a523450800000000000000
+      internalID: 6067010781707482881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3880e5bedd18f0800000000000000
+      internalID: -568053105241342003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520363eaaf3f33ba0800000000000000
+      internalID: -6110272011421470683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c24f76ded1fdd90800000000000000
+      internalID: -7070899984459879348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3c045a21bfb410800000000000000
+      internalID: 1495108396667124803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8c212b2eef7f4e0800000000000000
+      internalID: -1947808064210810662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b94f8e72d99e650800000000000000
+      internalID: 6262709551573015445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525271de6d817300800000000000000
+      internalID: 248134961581937236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaccecfe4cbdc2b80800000000000000
+      internalID: -8418111964578919254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c93da5eeec08c20800000000000000
+      internalID: 3206790457809148928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e39909baa81a70800000000000000
+      internalID: 8797969583774623935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc53601b5b56f390800000000000000
+      internalID: -7784934459188224821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bfdb9bc13eddf60800000000000000
+      internalID: 8060848620577880984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcc46c20b6f3020800000000000000
+      internalID: 2323693592407493987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33362b47a2189e030800000000000000
+      internalID: 3524490202740581171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1b630a4a72c280800000000000000
+      internalID: -9024516244993533120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841902b2dc0c56b0800000000000000
+      internalID: -5306352161879681917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190f4b6dbd9fe190800000000000000
+      internalID: -7930946981901432559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1936ea9e8b45360800000000000000
+      internalID: 7157549021591212495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860db03c9f851e20800000000000000
+      internalID: 3320718201250973317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95eee813c54bc1f0800000000000000
+      internalID: -1023647786057407074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e12e104fae4e750800000000000000
+      internalID: 6333445309714275879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960049cbf9e529080800000000000000
+      internalID: -9182172650098392983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef57f445321f8b30800000000000000
+      internalID: 4291668989907001316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296be788c656a5b20800000000000000
+      internalID: 3123920808355739282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3678e46e3c2980800000000000000
+      internalID: -8562400188420441169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99cc7497c6d94070800000000000000
+      internalID: 8091234358225848730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac32ecae0ad13c0800000000000000
+      internalID: -4387173531647751552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cece91059b30e7a0800000000000000
+      internalID: -6350009963429048631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf8352410f3f4f0800000000000000
+      internalID: -796028739799942285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc758aea7ceba8c30800000000000000
+      internalID: 4362508953899784139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8fabfa185ebe790800000000000000
+      internalID: -7499648409293621015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f91af5ccc9cba210800000000000000
+      internalID: 1345390795032238579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf50c48be77dc8b0800000000000000
+      internalID: -5130312547076907080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe72936e16c2330800000000000000
+      internalID: 3687429836338884424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e307fb8911b55f800800000000000000
+      internalID: 645522252732788798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d591165d0e0e13a0800000000000000
+      internalID: -6692896545784621607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27989162f7d443b0800000000000000
+      internalID: -5529057006484678866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a659360e165eca90800000000000000
+      internalID: -7291796059712825691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c0a4cbc83031e0800000000000000
+      internalID: -2220212168465268212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ed9da132a05780800000000000000
+      internalID: -8696272546202524142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e5852dbc4843a0800000000000000
+      internalID: -6681005671942068473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5159f5e9559294c70800000000000000
+      internalID: 8955734781708965141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa3f3378dfffe00800000000000000
+      internalID: 1080861192726227584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea520eca3bbe330800000000000000
+      internalID: 3741281470537641566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6318b08982da6e60800000000000000
+      internalID: 7956403179715302251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e37e1b1d090f470800000000000000
+      internalID: 8426394133117484556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea496e3d4964b55b0800000000000000
+      internalID: -5378627724939717458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7601db14d1fae170800000000000000
+      internalID: 8208639164138194554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bb3b55bde5d200800000000000000
+      internalID: 204330721290729076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47186747cd1448ce0800000000000000
+      internalID: -1403924768730218124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41594096e4b74e380800000000000000
+      internalID: -8942887383351388908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff9cd4c578ae480800000000000000
+      internalID: -8869127685640945843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb8bf09a95d8770800000000000000
+      internalID: 8614640244877737888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e6b0bb37dea1750800000000000000
+      internalID: 6276590112009317959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b13eadd947b9850800000000000000
+      internalID: 6384825118058814285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973cc9e11a778bc80800000000000000
+      internalID: -8306757978797849735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec180e0bae9d61e70800000000000000
+      internalID: 9085688900279632334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a950a3269430690800000000000000
+      internalID: -7637179856861160820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818700c762e01560800000000000000
+      internalID: 7282569532689318276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f482a0e76476d0800000000000000
+      internalID: -2993653637797579953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7ddea4459b6890800000000000000
+      internalID: -7463707835212399628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa705a63ad4e3ea10800000000000000
+      internalID: 1937643890570233770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e9c9a83b8a19c0800000000000000
+      internalID: -3955696247208548686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6770551aba32d4300800000000000000
+      internalID: 237885575373588342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc156c9b1d16e320800000000000000
+      internalID: 2586787040396123339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7aef943ed29d30800000000000000
+      internalID: 4436852900515970585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db305e3cd2542e90800000000000000
+      internalID: -7051420010663625771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f250e7440c88190800000000000000
+      internalID: -7959900940972773600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039cc0d00356f6470800000000000000
+      internalID: 8390035887866300720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b706fab0d05990800000000000000
+      internalID: -7399184686359529516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f855019bc426f50800000000000000
+      internalID: 6873140339047501665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c687ac7811dd810800000000000000
+      internalID: 1791607501678472313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fe620e51d05000800000000000000
+      internalID: 22748199834809717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515174ff943c7810800000000000000
+      internalID: 1764343015627903321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d12ff4aedefb20800000000000000
+      internalID: 3170215987951817073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47afe0850327743a0800000000000000
+      internalID: -6681245970219468172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f2aee742a1a8c0800000000000000
+      internalID: -3989729365043515128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e53684d558a0c0800000000000000
+      internalID: -4564303851066891949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4de36f2bbd95860800000000000000
+      internalID: 7519282614553728217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc85bebb3557368d0800000000000000
+      internalID: -2854308736327264053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00af9ef78dd6610800000000000000
+      internalID: 1616185885193797856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985af84cc9f9cc10800000000000000
+      internalID: 2074463759173834911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef01cfd68f0be0d0800000000000000
+      internalID: -3392600822339530769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8fa0ef81750260800000000000000
+      internalID: 7063176453364354224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64de056c5ecf4c0800000000000000
+      internalID: -4252271308220578073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b52fc4b8047198e0800000000000000
+      internalID: -1688440804545190471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c8de6a244cf150800000000000000
+      internalID: 5907671760242262311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_111
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb37b1e3a2d24a80800000000000000
+      internalID: -8483987146704208898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45bb002a0b2f0010800000000000000
+      internalID: 1157190951744812363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ae48df13797da0800000000000000
+      internalID: -5946595252355815151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5db2e9da488d7250800000000000000
+      internalID: 5944056938263395678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73cf5301d02d480800000000000000
+      internalID: -8876017552317466683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf861cc1e678740800000000000000
+      internalID: 5154209368331844554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aad9d74541b9fe0800000000000000
+      internalID: -1181328124137330105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc5627b9bb6f49e0800000000000000
+      internalID: -1634969694326334224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026dadf8fd68e380800000000000000
+      internalID: -8941776143968804352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c086eaa88252af40800000000000000
+      internalID: 5738239622159696068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f05f3657b933880800000000000000
+      internalID: -8632385132248625342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e08e4500a0b1a00800000000000000
+      internalID: 728186761291239033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79417382dc4afd590800000000000000
+      internalID: -7647212441201863529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13d88575870bbba0800000000000000
+      internalID: -6072251402795035873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6a6761de882120800000000000000
+      internalID: 2389316632354385448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00680a26403a54060800000000000000
+      internalID: 6937130040264001024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db88e4743a7adf0800000000000000
+      internalID: -168986934347514520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf743297d6b87b20800000000000000
+      internalID: 3132454577823317933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03befdd5a2953c0800000000000000
+      internalID: -4370415380709297992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62657585bd81e5730800000000000000
+      internalID: 3989653650255861286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87f3903c854f630800000000000000
+      internalID: 3959887567062530254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b56211eeb04e320800000000000000
+      internalID: 2586205203135355683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac56d41afa71d80800000000000000
+      internalID: -8279956282574255459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ae04d9f41965c0800000000000000
+      internalID: -4221820112445986732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65914665bc5775690800000000000000
+      internalID: -7613487128858322602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118058548b9677f0800000000000000
+      internalID: -615133306369834721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98f9f5d088c15b0800000000000000
+      internalID: -5396288662476453433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcd815ad6203dbd0800000000000000
+      internalID: -2606737089372824385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2db9a4ac5d12dc0800000000000000
+      internalID: -3665413556891036964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b49c1df8f22f6a0800000000000000
+      internalID: -6417014224303076546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68466691af8d8d50800000000000000
+      internalID: 6741202141419292783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20065e469486e8f90800000000000000
+      internalID: -6949502510551441406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d46bd855f592b880800000000000000
+      internalID: -8596643857706556202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac009858cdb7a260800000000000000
+      internalID: 7108859205004561578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67629efcf64ae3280800000000000000
+      internalID: -9061624600086370698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c686b9d1aa866f2e0800000000000000
+      internalID: -2092369897016563604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c661d6f03fc689d00800000000000000
+      internalID: 979652710144743020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f34249ed8eaab700800000000000000
+      internalID: 556949428460733433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6d7a80abc5de6f0800000000000000
+      internalID: -653764416819964232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c2e358281e140f0800000000000000
+      internalID: -1134377680423212030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e9490af374e4e0800000000000000
+      internalID: -1953308820637096905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea70f6c6336fed570800000000000000
+      internalID: 8493496647990314926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474f5bd5be57f8f0800000000000000
+      internalID: -506832297893345461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0575f7c5c870340800000000000000
+      internalID: 4829983454279454937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1373774c46c28a0800000000000000
+      internalID: -6328572581385915965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2a9152f99ca2b0800000000000000
+      internalID: -5571909372933952700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527c8bdc6355aaf0800000000000000
+      internalID: -385810466065321382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6adf577af8701b0800000000000000
+      internalID: -5690421654757464353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0d27b8bebfb5d0800000000000000
+      internalID: -3044505122522722713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb8bdc02cdc5200800000000000000
+      internalID: 170252919381737101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8334a961a2bea2e0800000000000000
+      internalID: -2112554768858336369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae7f13e9fc421a0800000000000000
+      internalID: -6835110056091457003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2722383f1c16c60800000000000000
+      internalID: 7809736480458437316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8545ddfc3e0bd6b0800000000000000
+      internalID: -5270603283787594358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69512262af55c24b0800000000000000
+      internalID: -5463897715037301354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875cc6dc77741190800000000000000
+      internalID: -7992632060612421748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Puzzle & Dragons Z - Children_167
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386586a36084e4510800000000000000
+      internalID: 1535243714566837891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
