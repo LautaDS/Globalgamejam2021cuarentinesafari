@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Door : MonoBehaviour
 {
-    public bool isOpen;
+    private bool isOpen;
     void Start()
     {
         isOpen = false;
@@ -14,5 +14,24 @@ public class Door : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void OpenDoor()
+    {
+        if(isOpen == false)
+        {
+           
+            // abrir puerta
+        }
+        isOpen = true;
+    }
+
+    public void CloseDoor()
+    {
+        if(isOpen == true)
+        {
+            // cerrar
+        }
+        isOpen = false;
     }
 }

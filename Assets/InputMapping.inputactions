@@ -30,9 +30,9 @@
                     "interactions": ""
                 },
                 {
-                    "name": "Rotation",
+                    "name": "Talk",
                     "type": "Button",
-                    "id": "b5cc67ed-aea9-4757-9968-dab86b539698",
+                    "id": "0a549017-9a80-4cc4-8473-f21b5aa5c609",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -194,114 +194,26 @@
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "KeyArrows",
-                    "id": "3b201fe1-fea5-4c90-a952-f9c601c8a4b7",
-                    "path": "2DVector",
+                    "name": "",
+                    "id": "d2400b0c-419b-4467-996b-b2b123e92dfe",
+                    "path": "<Keyboard>/t",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Rotation",
-                    "isComposite": true,
+                    "action": "Talk",
+                    "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "up",
-                    "id": "c695cf6f-1a63-4e98-a5e1-2cd191c5e27c",
-                    "path": "<Keyboard>/upArrow",
+                    "name": "",
+                    "id": "649387ba-239f-4a22-9bf0-7d8d62a73710",
+                    "path": "<XInputController>/buttonNorth",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Rotation",
+                    "action": "Talk",
                     "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "down",
-                    "id": "99f855e9-5386-402d-8326-4e04511a9458",
-                    "path": "<Keyboard>/downArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "left",
-                    "id": "967699ba-c444-4afe-bf9e-bc48b462d657",
-                    "path": "<Keyboard>/leftArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "right",
-                    "id": "52434e79-a33e-41b4-b425-f558ecc0feb0",
-                    "path": "<Keyboard>/rightArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "RightAnalog",
-                    "id": "fa0e7bae-2367-4a48-bc5b-8564b6da02c4",
-                    "path": "2DVector",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": true,
                     "isPartOfComposite": false
-                },
-                {
-                    "name": "up",
-                    "id": "c6148d71-b878-4e3d-a222-9428bff6c260",
-                    "path": "<XInputController>/rightStick/up",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "down",
-                    "id": "4b658b62-5aad-4620-b992-04d3aaf92c7d",
-                    "path": "<XInputController>/rightStick/down",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "left",
-                    "id": "a6bba7f2-30e2-428f-ad82-6fe5dd8a8fd3",
-                    "path": "<XInputController>/rightStick/left",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
-                },
-                {
-                    "name": "right",
-                    "id": "3908915d-57e2-4f44-ad5e-d8896c16b736",
-                    "path": "<XInputController>/rightStick/right",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": true
                 }
             ]
         }

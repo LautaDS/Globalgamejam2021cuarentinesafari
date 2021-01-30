@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
     [SerializeField] private float speed = 10f;
     [SerializeField] private float distanceFromPlayer = 1.5f;
     public bool[] winCondittionMeet = new bool[2];
+    
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -32,7 +34,7 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
        
-        if (PauseMenu.isPaused == false)
+        if (PauseMenu.isPaused == false )
         { 
         Move();
         AdjustDirection();
@@ -139,5 +141,23 @@ public class Player : MonoBehaviour
             flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 180f);
         }
     }
-        
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Mom")
+        {
+
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Mom")
+        {
+
+        }
+    }
+
+
+
+
 }
