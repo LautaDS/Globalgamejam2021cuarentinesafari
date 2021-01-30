@@ -29,9 +29,13 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
+       
+        if (PauseMenu.isPaused == false)
+        { 
         Move();
         AdjustDirection();
         AdjustFlashlight();
+        }
     }
     #region InputReciever
     public void OnMovement(InputAction.CallbackContext context)

@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[CreateAssetMenu(fileName = "New Dialog", menuName = "Dialog")]
 public class Dialogs : ScriptableObject
 {
-    string name;
-    string[] lineOfDialog;
+    public bool isQuest;
+    public string[] lineOfDialog;
+
+
+
 }
