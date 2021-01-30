@@ -6,10 +6,10 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Vector2 movement;
-    public GameObject flashlight;
+    public Transform flashlight;
     private Vector2 direction;
     [SerializeField] private float speed = 10f;
-    private bool facingRight = true;
+    [SerializeField] private float distanceFromPlayer = 1.5f;
     
     private void Awake()
     {
@@ -30,6 +30,8 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         Move();
+        AdjustDirection();
+        AdjustFlashlight();
     }
     #region InputReciever
     public void OnMovement(InputAction.CallbackContext context)
@@ -81,30 +83,55 @@ public class Player : MonoBehaviour
        
     }
 
-    void Flip()
+    private void AdjustDirection()
     {
-        if (rb.velocity.x < -0.1)
+
+        // Este matete ajusta el vector2 direction para con el poder comunicarle a la linterna y posteriormente al buho, para donde se esta mirando.
+        if(rb.velocity.y > 0.8 && rb.velocity.x < 0.8)
+             if (rb.velocity.y > 0.8 && rb.velocity.x > -0.8)
             {
-            facingRight = false ;
-            Vector3 Scaler = transform.localScale;
-            Scaler.x *= -1;
-            transform.localScale = Scaler;
+                direction = new Vector2(0f, 1f);
             }
-            else
+        if (rb.velocity.y < -0.8 && rb.velocity.x < 0.8)
+            if (rb.velocity.y < -0.8 && rb.velocity.x > -0.8)
             {
-            facingRight = true;
-            Vector3 Scaler = transform.localScale;
-            Scaler.x *= -1;
-            transform.localScale = Scaler;
-        }
-       
-        
+                direction = new Vector2(0f, -1f);
+            }
+
+        if (rb.velocity.x > 0.8 && rb.velocity.y < 0.8)
+            if (rb.velocity.x > 0.8 && rb.velocity.y > -0.8)
+            {
+                direction = new Vector2(1f, 0f);
+            }
+        if (rb.velocity.x < -0.8 && rb.velocity.y < 0.8)
+            if (rb.velocity.x < -0.8 && rb.velocity.y > -0.8)
+            {
+                direction = new Vector2(-1f, 0f);
+            }
+
     }
 
     private void AdjustFlashlight()
     {
-        flashlight.transform.position = direction;
-        
+        flashlight.transform.localPosition = new Vector2(direction.x * distanceFromPlayer, direction.y * distanceFromPlayer);
+        flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 0f);
+
+        if (direction == new Vector2(-1f,0f))
+        {
+            flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 90f);
+        }
+        if (direction == new Vector2(1f, 0f))
+        {
+            flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 260f);
+        }
+        if (direction == new Vector2(0f, 1f))
+        {
+            flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 0f);
+        }
+        if (direction == new Vector2(0f, -1f))
+        {
+            flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 180f);
+        }
     }
         
 }
