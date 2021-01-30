@@ -12,3 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a0fd75167f96064282e571a2be17f91, type: 3}
   m_Name: StartingDialog
   m_EditorClassIdentifier: 
+  isQuest: 0
+  lineOfDialog:
+  - Por fin tenemos lineas de dialogos
+  - Podes creerlo?
+  - Un poco me daba fiaca hacerlo
+  - Pero al final sirvio no?

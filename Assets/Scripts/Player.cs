@@ -10,11 +10,13 @@ public class Player : MonoBehaviour
     private Vector2 direction;
     [SerializeField] private float speed = 10f;
     [SerializeField] private float distanceFromPlayer = 1.5f;
-    
+    public bool[] winCondittionMeet = new bool[2];
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         movement = new Vector2(0f, 0f);
+       
+        for (int i = 0; i < winCondittionMeet.Length; i++) { winCondittionMeet[i] = false; }
     }
     void Start()
     {
