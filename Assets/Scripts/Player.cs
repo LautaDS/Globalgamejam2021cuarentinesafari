@@ -7,13 +7,10 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 movement;
     public GameObject flashlight;
-
+    private Vector2 direction;
     [SerializeField] private float speed = 10f;
-    [SerializeField] private float drag;
-    // Start is called before the first frame update
-
-
-
+    private bool facingRight = true;
+    
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -80,11 +77,34 @@ public class Player : MonoBehaviour
             rb.velocity = new Vector2(movement.x * speed, movement.y * speed);
         }
         
+        // check horizontal velocity to use flip
+       
+    }
+
+    void Flip()
+    {
+        if (rb.velocity.x < -0.1)
+            {
+            facingRight = false ;
+            Vector3 Scaler = transform.localScale;
+            Scaler.x *= -1;
+            transform.localScale = Scaler;
+            }
+            else
+            {
+            facingRight = true;
+            Vector3 Scaler = transform.localScale;
+            Scaler.x *= -1;
+            transform.localScale = Scaler;
+        }
+       
+        
     }
 
     private void AdjustFlashlight()
     {
-        flashlight.transform.position = movement;
+        flashlight.transform.position = direction;
+        
     }
         
 }

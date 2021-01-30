@@ -22,7 +22,7 @@
                     "interactions": ""
                 },
                 {
-                    "name": "Cancel",
+                    "name": "Pause",
                     "type": "Button",
                     "id": "ed34a06d-d26b-45cb-bb89-8d8a8fc209df",
                     "expectedControlType": "Button",
@@ -178,7 +178,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Cancel",
+                    "action": "Pause",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -189,7 +189,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Cancel",
+                    "action": "Pause",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },

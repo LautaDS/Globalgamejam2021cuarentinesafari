@@ -27,6 +27,19 @@ public class PauseMenu : MonoBehaviour
         SceneManager.LoadScene("GameScene");
 
     }
+
+    public void PauseGame()
+    {
+        pauseMenu.SetActive(true);
+        Time.timeScale = 0f;
+        isPaused = true;
+
+        // Para deseleccionar y poder seleccionar botones.
+        EventSystem.current.SetSelectedGameObject(null);
+        // Settear el objeto seleccionado, osea un boton
+        EventSystem.current.SetSelectedGameObject(resumeButton);
+
+    }
     public void ResumeGame()
     {
         pauseMenu.SetActive(false);
