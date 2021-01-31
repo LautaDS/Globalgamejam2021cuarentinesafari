@@ -9,11 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a0fd75167f96064282e571a2be17f91, type: 3}
-  m_Name: SunflowerQuest
+  m_Script: {fileID: 11500000, guid: 6ce8dbb0d74eba444a9d1c39e7b8e723, type: 3}
+  m_Name: Starting
   m_EditorClassIdentifier: 
-  isQuest: 1
+  isQuest: 0
   lineOfDialog:
-  - Busca un girasol
-  - usa la linterna con X
-  - Acordate de iluminarla
+  - Test
+  - testtest
+  - retest

@@ -4,28 +4,23 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
-
+using UnityEngine.InputSystem;
 public class Mom : MonoBehaviour
 {
-    public Dialogs[] dialogs;
+   
     private int levelOfPuzzles;
-    private int index;
-    public float typingSpeed;
-    public Canvas DialogBox;
-    public TextMeshProUGUI textDisplay;
-    public bool OnDialog;
     public Door[] doors;
-    
-    public Button nextDialogButton;
-    public Button exitDialogButton;
-    public Player player;
-
-    public Canvas canvasInWorldSpace;
+   
+    // THIRD TRY
+    public GameObject dialogBox;
+    public Text dialogText;
+    public Dialog dialogs;
+    public bool playerInRange;
 
     private void Awake()
     {
         levelOfPuzzles = 0;
-        index = 0;
+       
     }
     void Start()
     {
@@ -58,67 +53,31 @@ public class Mom : MonoBehaviour
             default:
                 break;
         }
+
+       
     }
-
-
-    IEnumerator Type()
+    public void OnTalk(InputAction.CallbackContext context)
     {
-        foreach(char letter in dialogs[levelOfPuzzles].lineOfDialog[index].ToCharArray())
+        if (context.performed)
         {
-            textDisplay.text += letter;
-            yield return new WaitForSeconds(typingSpeed);
-        }
-        
-    }
 
-    public void NextSentence()
-    {
-        if(index < dialogs[levelOfPuzzles].lineOfDialog.Length -1)
-        {
-            textDisplay.text = "";
-            StartCoroutine(Type());
-            index++;
-            
-        } else if (index == dialogs[levelOfPuzzles].lineOfDialog.Length)
-        {
-            //check if win condittion meet or repeat last line of dialog.
-            if (player.winCondittionMeet[levelOfPuzzles] == true)
-            {
-                if(levelOfPuzzles < 3)
-                { 
-                levelOfPuzzles++;
-                index = 0;
-                NextSentence();
-                } else if (levelOfPuzzles >= 3)
-                {
-                    // win condition 
-                } 
-            } else
-            {
-                textDisplay.text = "";
-                StartCoroutine(Type());
-               
 
-                
-            }
-            
         }
     }
 
-    public void ExitDialog()
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        DialogBox.enabled = false;
+        if (collision.tag == "Player")
+        {
+            playerInRange = true;
+        }
     }
-
-    public void StartDialog()
+    private void OnTriggerExit2D(Collider2D collision)
     {
-
-        DialogBox.enabled = true;
-        NextSentence();
-        
-
-        
+        if(collision.tag == "Player")
+        {
+            playerInRage = false;
+        }
     }
-
-    
 }

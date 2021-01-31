@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Sunflower : MonoBehaviour
 {
-    // Start is called before the first frame update
+    private float lightAmount;
+    private bool insideOfLight;
     void Start()
     {
         
@@ -14,5 +15,25 @@ public class Sunflower : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void FixedUpdate()
+    {
+        
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            insideOfLight = true;
+        }
+    }
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            insideOfLight = false;
+        }
     }
 }
