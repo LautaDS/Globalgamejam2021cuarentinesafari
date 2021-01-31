@@ -30,16 +30,16 @@ public class Polilla : MonoBehaviour
     public void FindLight()
     {
         float differenceInYAxis = transform.position.y - player.gameObject.transform.position.y;
-       if (differenceInYAxis >  2 && differenceInYAxis < -2)
+       if (differenceInYAxis >  1 && differenceInYAxis < -1)
         {
             rb.AddForce(new Vector2(0, speed), ForceMode2D.Impulse);
-            if (rb.velocity.y > maxSpeed)
+            
                 rb.velocity = new Vector2(0,maxSpeed);
         }
-       else if (differenceInYAxis < 2 && differenceInYAxis > -2)
+       else if (differenceInYAxis < 1 && differenceInYAxis > -1)
         {
             rb.AddForce(new Vector2(-1 * speed, 0), ForceMode2D.Impulse);
-            if (rb.velocity.y > maxSpeed)
+           
                 rb.velocity = new Vector2(maxSpeed, 0);
         }
        
