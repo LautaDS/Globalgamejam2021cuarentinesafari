@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
+using TMPro;
 public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
@@ -10,17 +12,21 @@ public class Player : MonoBehaviour
     private Vector2 direction;
     [SerializeField] private float speed = 10f;
     [SerializeField] private float distanceFromPlayer = 1.5f;
-    public bool[] winCondittionMeet = new bool[3];
+   
+    public GameObject mom;
+    public float distanceToMom;
+    public GameObject dialogBox;
+    public TMP_Text dialogText;
+    public string[] dialogLines;
+    public int levelOfPuzzles = 0;
 
-    public bool talking;
-
-    public Mom mom;
+    public Door[] doors;
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         movement = new Vector2(0f, 0f);
        
-        for (int i = 0; i < winCondittionMeet.Length; i++) { winCondittionMeet[i] = false; }
+        
     }
     void Start()
     {
@@ -36,8 +42,9 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
        
-        if (PauseMenu.isPaused == false || !talking)
-        { 
+        if (PauseMenu.isPaused == false)
+        {
+            
         Move();
         AdjustDirection();
         AdjustFlashlight();
@@ -54,8 +61,7 @@ public class Player : MonoBehaviour
     {
         if (context.performed)
         {
-           
-
+            TurnOnAndOffFlashlight();
         }
     }
 
@@ -145,12 +151,98 @@ public class Player : MonoBehaviour
             flashlight.transform.rotation = Quaternion.Euler(0f, 0f, 180f);
         }
     }
-    
-    public void StartTalking()
+
+    private void TurnOnAndOffFlashlight()
     {
-        talking = true;
-        
+        if(flashlight.gameObject.activeSelf)
+        {
+            flashlight.gameObject.SetActive(false);
+        }
+        else
+        {
+            flashlight.gameObject.SetActive(true);
+        }
     }
 
+    #region dialog and doors
+
+    IEnumerator Type(int levelOfPuzzles)
+    {
+        dialogText.text = "";
+        foreach (char letter in dialogLines[levelOfPuzzles].ToCharArray())
+        {
+            Debug.Log("Entramos aca");
+            dialogText.text += letter;
+            yield return new WaitForSeconds(0.1f);
+        }
+
+        if (levelOfPuzzles >= 3)
+        {
+            Debug.Log("ganaste");
+            yield return new WaitForSeconds(1f);
+            // win condition 
+        }
+
+    }
+    public void WriteDialog(int lineofdialog)
+    {
+        dialogText.text = "";
+        dialogText.text = dialogLines[lineofdialog];
+    }
+    public void ActivateDialog()
+    {
+            dialogBox.SetActive(true);
+            WriteDialog(levelOfPuzzles);
+
+    }
+    public void DeactivateDialog()
+    {
+        dialogBox.SetActive(false);
+    }
+
+    public void AdjustDoors()
+    {
+        switch (levelOfPuzzles)
+        {
+            case 0:
+
+                break;
+            case 1:
+                doors[levelOfPuzzles].OpenDoor();
+                break;
+            case 2:
+                doors[levelOfPuzzles].OpenDoor();
+                break;
+            case 3:
+                doors[levelOfPuzzles].OpenDoor();
+                break;
+
+            default:
+                break;
+        }
+
+      
+    }
+
+    public void UpdateLevelOfPuzzles()
+    {
+        levelOfPuzzles++;
+        AdjustDoors();
+    }
+    #endregion
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Mom")
+        { 
+        ActivateDialog();
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "Mom")
+        {
+            DeactivateDialog();
+        }
+    }
 
 }
