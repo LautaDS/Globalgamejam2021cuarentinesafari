@@ -10,10 +10,10 @@ public class Player : MonoBehaviour
     private Vector2 direction;
     [SerializeField] private float speed = 10f;
     [SerializeField] private float distanceFromPlayer = 1.5f;
-    public bool[] winCondittionMeet = new bool[2];
+    public bool[] winCondittionMeet = new bool[3];
 
     public bool talking;
-    private bool readyToTalkToMom;
+
     public Mom mom;
     private void Awake()
     {
@@ -77,18 +77,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    public void OnTalk(InputAction.CallbackContext context)
-    {
-        if (context.performed)
-        {
-            if (readyToTalkToMom)
-            {
-                talking = true;
-                mom.ActivateDialogue();
-            }
-
-        }
-    }
+    
 
     #endregion
 
@@ -164,17 +153,4 @@ public class Player : MonoBehaviour
     }
 
 
-    private void OnTriggerStay2D(Collider2D collision)
-    {
-        if (collision.tag == "Mom")
-        {
-            readyToTalkToMom = true;
-
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        readyToTalkToMom = false;
-    }
 }

@@ -7,16 +7,16 @@ using UnityEngine.UI;
 using UnityEngine.InputSystem;
 public class Mom : MonoBehaviour
 {
-   
-    private int levelOfPuzzles;
     public Door[] doors;
-   
+    public Dialog[] dialogs;
+    private int levelOfPuzzles;
+    private int index;
+
     // THIRD TRY
     public GameObject dialogBox;
     public Text dialogText;
-    public Dialog dialogs;
     public bool playerInRange;
-
+    public Player player;
     private void Awake()
     {
         levelOfPuzzles = 0;
@@ -58,11 +58,56 @@ public class Mom : MonoBehaviour
     }
     public void OnTalk(InputAction.CallbackContext context)
     {
-        if (context.performed)
+        if (context.performed && playerInRange)
         {
+            player.talking = true;
+            dialogBox.SetActive(true);
+            PlayDialog();
+        }
+    }
 
+    public void PlayDialog()
+    {
+        if (index < dialogs[levelOfPuzzles].lineOfDialog.Length - 1)
+        {
+            dialogText.text = "";
+            StartCoroutine(Type());
+            index++;
 
         }
+        else if (index == dialogs[levelOfPuzzles].lineOfDialog.Length)
+        {
+            //check if win condittion meet or repeat last line of dialog.
+            if (player.winCondittionMeet[levelOfPuzzles] == true)
+            {
+                if (levelOfPuzzles < 3)
+                {
+                    levelOfPuzzles++;
+                    index = 0;
+                    PlayDialog();
+                }
+                else if (levelOfPuzzles >= 3)
+                {
+                    // win condition 
+                }
+            }
+            else
+            {
+                dialogText.text = "";
+                StartCoroutine(Type());
+
+            }
+        }
+    }
+
+    IEnumerator Type()
+    {
+        foreach (char letter in dialogs[levelOfPuzzles].lineOfDialog[index].ToCharArray())
+        {
+            dialogText.text += letter;
+            yield return new WaitForSeconds(0.1f);
+        }
+
     }
 
 
@@ -70,14 +115,18 @@ public class Mom : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
+            Debug.Log("llegue aca");
             playerInRange = true;
         }
+        else { Debug.Log("Y aca"); }
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
         if(collision.tag == "Player")
         {
-            playerInRage = false;
+            playerInRange = false;
+            dialogBox.SetActive(false);
+            player.talking = false;
         }
     }
 }
