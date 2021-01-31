@@ -4,12 +4,13 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Vector2 movement;
     public Transform flashlight;
-    private Vector2 direction;
+    public Vector2 direction;
     [SerializeField] private float speed = 10f;
     [SerializeField] private float distanceFromPlayer = 1.5f;
    
@@ -228,6 +229,10 @@ public class Player : MonoBehaviour
     {
         levelOfPuzzles++;
         AdjustDoors();
+        if (levelOfPuzzles >= 3)
+        {
+            SceneManager.LoadScene("EndScreen");
+        }
     }
     #endregion
     private void OnTriggerEnter2D(Collider2D collision)
