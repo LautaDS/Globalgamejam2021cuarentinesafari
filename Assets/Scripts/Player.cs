@@ -20,7 +20,7 @@ public class Player : MonoBehaviour
     public TMP_Text dialogText;
     public string[] dialogLines;
     public int levelOfPuzzles = 0;
-
+    public Animator animator;
     public Door[] doors;
     private void Awake()
     {
@@ -42,7 +42,8 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-       
+      
+
         if (PauseMenu.isPaused == false)
         {
             
@@ -56,6 +57,8 @@ public class Player : MonoBehaviour
     {
         // Store data from inputs  
         movement = context.ReadValue<Vector2>();
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
     }
 
     public void OnAction(InputAction.CallbackContext context)

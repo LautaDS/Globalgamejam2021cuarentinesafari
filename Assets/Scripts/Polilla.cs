@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class Polilla : MonoBehaviour
 {
     public Player player;
@@ -49,6 +49,7 @@ public class Polilla : MonoBehaviour
         if(collision.CompareTag("flashlight"))
         {
             closeToPlayer = true;
+            SceneManager.LoadScene("EndScreen");
         }
         if(collision.CompareTag("Poligoal"))
         {
