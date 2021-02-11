@@ -8,75 +8,121 @@ public class Owl : MonoBehaviour
     public GameObject[] trees;
     public Animator animator;
     public int currentTree;
-    public int winTree;
-    public int lastTree;
     public int speed = 1;
     public int targetTree;
+
+    private OwlStates lastState;
+    private OwlStates currentState;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
         currentTree = 0;
-        lastTree = currentTree;
+
         transform.position = trees[currentTree].gameObject.transform.position;
+
+        currentState = OwlStates.IDLE;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     private void FixedUpdate()
     {
+
+        switch (currentState)
+        {
+            case OwlStates.FLYING:
+                break;
+            case OwlStates.IDLE:
+
+                break;
+            case OwlStates.ENDED:
+                break;
+        }
+
+
+        /*
         if(transform.position != trees[currentTree].gameObject.transform.position)
         {
             MoveToTree(targetTree);
-        }
+        }*/
     }
 
-    public void MoveToTree(int nextTree)
+    private void ChangeState(OwlStates newState)
     {
-        Debug.Log("entramos a movetotree");
-        if (currentTree != nextTree && currentTree != winTree)
+        if (currentState != newState)
         {
-            Debug.Log("Sileesestotendriaquemoverse");
-            float step = speed * Time.deltaTime;
-            Vector3 newposition = new Vector3(trees[nextTree].gameObject.transform.position.x, trees[nextTree].gameObject.transform.position.y, trees[nextTree].gameObject.transform.position.z);
-            transform.position = newposition;
-
-            animator.SetTrigger("OwlGoFly");
-            lastTree = currentTree;
-            currentTree = nextTree;
-            Debug.Log("comonovaasalirdeaca'");
+            lastState = currentState;
+            currentState = newState;
         }
-        if (currentTree == winTree)
-        {
-            animator.SetBool("OwlWin", true);
-        }
-        Debug.Log("obvioquesaliodeaca");
     }
+
+    private bool win = false; 
+
+    public void MoveToTree()
+    {
+        if (currentState == OwlStates.IDLE)
+        {
+            ChangeState(OwlStates.FLYING);
+            StartCoroutine(Move(trees[targetTree].transform.position));
+            targetTree++;
+
+            if (targetTree == trees.Length)
+            {
+                win = true;
+            }
+        }
+
+    }
+
+
+    IEnumerator Move(Vector3 newPos)
+    {
+
+
+        //IGUALES FLOTANTES ESTA MAL VISTO 0.0000001 == 0.0001
+        //OTRA FORMA ES MATHF.APROX()/*
+        
+        Vector3 step = (newPos - transform.position).normalized;
+
+        while (Vector3.Distance(transform.position, newPos) > 0.1f)
+        {
+            transform.position += step * Time.deltaTime;
+            yield return null;
+        }
+       
+        if (win)
+            ChangeState(OwlStates.ENDED);
+        else
+           ChangeState(OwlStates.IDLE);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        
         if (collision.gameObject.CompareTag("flashlight"))
         {
-            if (player.direction.x == -1f)
-            {
-                targetTree = lastTree;
-               
-            }
-            if(player.direction.x == 1f)
-            {
-                targetTree = currentTree + 1;
-                
-            }
+            Debug.Log("ASDSADASD");
+            MoveToTree();
         }
     }
-    private void OnTriggerExit2D(Collider2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("flashlight"))
         {
-           
+            MoveToTree();
         }
+    }
+
+    private enum OwlStates
+    {
+        IDLE,
+        FLYING,
+        ENDED
     }
 }

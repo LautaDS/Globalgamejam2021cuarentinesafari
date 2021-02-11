@@ -5,6 +5,8 @@ using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System;
+
 public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
@@ -17,11 +19,14 @@ public class Player : MonoBehaviour
     public GameObject mom;
     public float distanceToMom;
     public GameObject dialogBox;
-    public TMP_Text dialogText;
     public string[] dialogLines;
     public int levelOfPuzzles = 0;
     public Animator animator;
     public Door[] doors;
+
+
+    public System.Action OnDialogStart;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -47,9 +52,9 @@ public class Player : MonoBehaviour
         if (PauseMenu.isPaused == false)
         {
             
-        Move();
-        AdjustDirection();
-        AdjustFlashlight();
+            Move();
+            AdjustDirection();
+            AdjustFlashlight();
         }
     }
     #region InputReciever
@@ -66,6 +71,15 @@ public class Player : MonoBehaviour
         if (context.performed)
         {
             TurnOnAndOffFlashlight();
+            NextDialog();
+        }
+    }
+        
+    private void NextDialog()
+    {
+        if (OnDialogStart != null)
+        {
+            OnDialogStart();
         }
     }
 
@@ -169,7 +183,7 @@ public class Player : MonoBehaviour
     }
 
     #region dialog and doors
-
+    /*
     IEnumerator Type(int levelOfPuzzles)
     {
         dialogText.text = "";
@@ -203,6 +217,7 @@ public class Player : MonoBehaviour
     {
         dialogBox.SetActive(false);
     }
+    */
 
     public void AdjustDoors()
     {
@@ -238,19 +253,6 @@ public class Player : MonoBehaviour
         }
     }
     #endregion
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.tag == "Mom")
-        { 
-        ActivateDialog();
-        }
-    }
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.tag == "Mom")
-        {
-            DeactivateDialog();
-        }
-    }
+
 
 }
